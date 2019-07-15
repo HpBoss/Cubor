@@ -1,0 +1,3786 @@
+# Cubor Extension Dictionary - 英雄联盟词库大全.scel
+---
+name: cubor-yingxiong
+version: "1.0"
+columns: 
+  - text
+  - code
+  - weight
+sort: by_weight
+...
+
+
+阿卡丽	a ka li	1732
+阿卡丽	aakali	62
+阿卡丽	akl	62
+阿狸	a li	1894
+阿狸	aali	67
+阿狸	al	67
+阿狸	al ekql	67
+阿利斯塔	a li si ta	1508
+阿利斯塔	aalisita	55
+阿利斯塔	alst	55
+阿木木	a mu mu	1603
+阿木木	aamumu	58
+阿木木	amm	58
+阿塔玛之戟	a ta ma zhi ji	686
+阿塔玛之戟	aatamaviji	28
+阿塔玛之戟	atmvj	28
+阿兹尔	a zi er	2025
+阿兹尔	aazier	71
+阿兹尔	aze	71
+阿兹尔	aze ekbydx	71
+艾卡西亚	ai ka xi ya	250
+艾卡西亚	aikaxiya	12
+艾卡西亚	akxy	12
+艾克	ai ke	2025
+艾克	aike	71
+艾克	ak	71
+艾克	ak cxue	71
+艾克塞之怒	ai ke sai zhi nu	1476
+艾克塞之怒	aikesdvinu	54
+艾克塞之怒	aksvn	54
+艾尼维亚	ai ni wei ya	1635
+艾尼维亚	ainiwwya	59
+艾尼维亚	anwy	59
+艾欧尼亚	ai ou ni ya	250
+艾欧尼亚	aiouniya	12
+艾欧尼亚	aony	12
+艾瑞莉娅	ai rui li ya	1764
+艾瑞莉娅	airvliya	63
+艾瑞莉娅	arly	63
+艾希	ai xi	1508
+艾希	aixi	55
+艾希	ax	55
+艾希	ax cxxj	55
+暗黑元首	an hei yuan shou	1959
+暗黑元首	anhwyruz	69
+暗黑元首	ahyu	69
+安妮	an ni	1508
+安妮	anni	55
+安妮	an	55
+安妮	an bnnb	55
+暗夜猎手	an ye lie shou	1829
+暗夜猎手	anyelpuz	65
+暗夜猎手	aylu	65
+暗裔剑魔	an yi jian mo	1992
+暗裔剑魔	anyijmmo	70
+暗裔剑魔	ayjm	70
+暗裔剑魔	ayjm oowkrdgg	70
+暗影岛	an ying dao	1011
+暗影岛	anykdc	39
+暗影岛	ayd	39
+暗影岛	ayd oooppe	39
+暗影之拳	an ying zhi quan	1732
+暗影之拳	anykviqr	62
+暗影之拳	ayvq	62
+奥巴马	ao ba ma	1350
+奥巴马	aobama	50
+奥巴马	abm	50
+奥黛恩的面纱	ao dai en de mian sha	951
+奥黛恩的面纱	aoddendemmua	37
+奥黛恩的面纱	adedmu	37
+奥拉夫	ao la fu	1732
+奥拉夫	aolafu	62
+奥拉夫	alf	62
+奥莉安娜	ao li an na	1829
+奥莉安娜	aolianna	65
+奥莉安娜	alan	65
+傲之追猎者	ao zhi zhui lie zhe	1959
+傲之追猎者	aovivvlpve	69
+傲之追猎者	avvlv	69
+巴德	ba de	2025
+巴德	bade	71
+巴德	bd	71
+班德尔城	ban de er cheng	250
+班德尔城	bjdeerig	12
+班德尔城	bdei	12
+半肉	ban rou	600
+半肉	bjrz	25
+半肉	br	25
+爆发	bao fa	2190
+爆发	bcfa	76
+爆发	bf	76
+暴风之剑	bao feng zhi jian	921
+暴风之剑	bcfgvijm	36
+暴风之剑	bfvj	36
+暴击	bao ji	921
+暴击	bcji	36
+暴击	bj	36
+暴君盖伦	bao jun gai lun	327
+暴君盖伦	bcjygdly	15
+暴君盖伦	bjgl	15
+爆裂魔杖	bao lie mo zhang	861
+爆裂魔杖	bclpmovh	34
+爆裂魔杖	blmv	34
+豹女	bao nv	1164
+豹女	bcnv	44
+豹女	bn	44
+爆破鬼才	bao po gui cai	1894
+爆破鬼才	bcpogvcd	67
+爆破鬼才	bpgc	67
+宝石骑士	bao shi qi shi	1635
+宝石骑士	bcuiqiui	59
+宝石骑士	buqu	59
+暴走萝莉	bao zou luo li	1992
+暴走萝莉	bczzloli	70
+暴走萝莉	bzll	70
+被动	bei dong	2124
+被动	bwds	74
+被动	bd	74
+被动	bd pyel	74
+被动都被打出来了	bei dong dou bei da chu lai le	1011
+被动都被打出来了	bwdsdzbwdaiuldle	39
+被动都被打出来了	bddbdill	39
+崩盘	beng pan	275
+崩盘	bgpj	13
+崩盘	bp	13
+比尔吉沃特	bi er ji wo te	250
+比尔吉沃特	bierjiwote	12
+比尔吉沃特	bejwt	12
+比尔吉沃特弯刀	bi er ji wo te wan dao	802
+比尔吉沃特弯刀	bierjiwotewjdc	32
+比尔吉沃特弯刀	bejwtwd	32
+逼团	bi tuan	516
+逼团	bitr	22
+逼团	bt	22
+逼团	bt ztkc	22
+别单	bie dan	544
+别单	bpdj	23
+别单	bd	23
+别单	bd kdbl	23
+别禁	bie jin	461
+别禁	bpjb	20
+别禁	bj	20
+别禁	bj kdmx	20
+别抢我蓝	bie qiang wo lan	0
+别抢我蓝	bpqlwolj	0
+别抢我蓝	bqwl	0
+别上	bie shang	0
+别上	bpuh	0
+别上	bu	0
+别怂	bie song	0
+别怂	bpss	0
+别怂	bs	0
+别怂	bs kdrx	0
+别投	bie tou	380
+别投	bptz	17
+别投	bt	17
+别投	bt kdfy	17
+别只顾着杀人啊	bie zhi gu zhe sha ren a	10
+别只顾着杀人啊	bpviguveuarfaa	1
+别只顾着杀人啊	bvgvura	1
+冰川护甲	bing chuan hu jia	657
+冰川护甲	bkirhujx	27
+冰川护甲	bihj	27
+冰川裂隙	bing chuan lie xi	1350
+冰川裂隙	bkirlpxi	50
+冰川裂隙	bilx	50
+冰锤	bing chui	657
+冰锤	bkiv	27
+冰锤	bi	27
+冰晶凤凰	bing jing feng huang	1635
+冰晶凤凰	bkjkfghl	59
+冰晶凤凰	bjfh	59
+冰鸟	bing niao	1133
+冰鸟	bknn	43
+冰鸟	bn	43
+冰女	bing nv	1319
+冰女	bknv	49
+冰女	bn	49
+冰霜女巫	bing shuang nv wu	1992
+冰霜女巫	bkulnvwu	70
+冰霜女巫	bunw	70
+冰霜战锤	bing shuang zhan chui	921
+冰霜战锤	bkulvjiv	36
+冰霜战锤	buvi	36
+冰霜之锤	bing shuang zhi chui	657
+冰霜之锤	bkulviiv	27
+冰霜之锤	buvi	27
+冰霜之心	bing shuang zhi xin	628
+冰霜之心	bkulvixb	26
+冰霜之心	buvx	26
+兵线	bing xian	600
+兵线	bkxm	25
+兵线	bx	25
+冰雪节限定	bing xue jie xian ding	85
+冰雪节限定	bkxtjpxmdk	5
+冰雪节限定	bxjxd	5
+兵营	bing ying	600
+兵营	bkyk	25
+兵营	by	25
+兵营	by qbck	25
+冰杖	bing zhang	832
+冰杖	bkvh	33
+冰杖	bv	33
+波比	bo bi	1699
+波比	bobi	61
+波比	bb	61
+补兵	bu bing	2190
+补兵	bubk	76
+补兵	bb	76
+补刀	bu dao	572
+补刀	budc	24
+补刀	bd	24
+不服	bu fu	153
+不服	bufu	8
+不服	bf	8
+不给挂机	bu gei gua ji	406
+不给挂机	bugwgxji	18
+不给挂机	bggj	18
+不给就送	bu gei jiu song	153
+不给就送	bugwjqss	8
+不给就送	bgjs	8
+布甲	bu jia	744
+布甲	bujx	30
+布甲	bj	30
+布兰德	bu lan de	1829
+布兰德	buljde	65
+布兰德	bld	65
+不浪了	bu lang le	380
+不浪了	bulhle	17
+不浪了	bll	17
+布里茨	bu li ci	1635
+布里茨	bulici	59
+布里茨	blc	59
+布隆	bu long	2025
+布隆	buls	71
+布隆	bl	71
+不撸	bu lu	461
+不撸	bulu	20
+不撸	bl	20
+不切	bu qie	488
+不切	buqp	21
+不切	bq	21
+不肉	bu rou	544
+不肉	burz	23
+不肉	br	23
+不祥	bu xiang	1164
+不祥	buxl	44
+不祥	bx	44
+不祥之刃	bu xiang zhi ren	1667
+不祥之刃	buxlvirf	60
+不祥之刃	bxvr	60
+菜比	cai bi	488
+菜比	cdbi	21
+菜比	cb	21
+菜逼	cai bi	488
+菜逼	cdbi	21
+菜逼	cb	21
+菜逼	cb cmzt	21
+菜狗	cai gou	461
+菜狗	cdgz	20
+菜狗	cg	20
+菜狗	cg cmqk	20
+裁决之地	cai jue zhi di	200
+裁决之地	cdjtvidi	10
+裁决之地	cjvd	10
+残暴之力	can bao zhi li	686
+残暴之力	cjbcvili	28
+残暴之力	cbvl	28
+苍穹之光	cang qiong zhi guang	1350
+苍穹之光	chqsvigl	50
+苍穹之光	cqvg	50
+草丛	cao cong	2190
+草丛	cccs	76
+草丛	cc	76
+草丛	cc cura	76
+草丛伦	cao cong lun	1194
+草丛伦	cccsly	45
+草丛伦	ccl	45
+草鞋	cao xie	773
+草鞋	ccxp	31
+草鞋	cx	31
+草鞋	cx cugt	31
+操作	cao zuo	1011
+操作	cczo	39
+操作	cz	39
+操作	cz fmrv	39
+策士统领	ce shi tong ling	1764
+策士统领	ceuitslk	63
+策士统领	cutl	63
+插眼	cha yan	2124
+插眼	iayj	74
+插眼	iy	74
+长剑	chang jian	921
+长剑	ihjm	36
+长剑	ij	36
+超级兵	chao ji bing	600
+超级兵	icjibk	25
+超级兵	ijb	25
+潮汐海灵	chao xi hai ling	1894
+潮汐海灵	icxihdlk	67
+潮汐海灵	ixhl	67
+潮汐海灵	ixhl dodxdmeh	67
+成狗	cheng gou	516
+成狗	iggz	22
+成狗	ig	22
+惩戒	cheng jie	130
+惩戒	igjp	7
+惩戒	ij	7
+惩戒之箭	cheng jie zhi jian	1927
+惩戒之箭	igjpvijm	68
+惩戒之箭	ijvj	68
+持续伤害	chi xu shang hai	2124
+持续伤害	iixuuhhd	74
+持续伤害	ixuh	74
+重生	chong sheng	2058
+重生	isug	72
+重生	iu	72
+出门装	chu men zhuang	981
+出门装	iumfvl	38
+出门装	imv	38
+出肉你会死啊	chu rou ni hui si a	10
+出肉你会死啊	iurznihvsiaa	1
+出肉你会死啊	irnhsa	1
+触手	chu shou	1350
+触手	iuuz	50
+触手	iu	50
+穿刺装	chuan ci zhuang	628
+穿刺装	ircivl	26
+穿刺装	icv	26
+传送	chuan song	2091
+传送	irss	73
+传送	is	73
+传送	is rvzt	73
+穿透	chuan tou	1444
+穿透	irtz	53
+穿透	it	53
+船长	chuan zhang	1164
+船长	irvh	44
+船长	iv	44
+锤石	chui shi	1959
+锤石	ivui	69
+锤石	iu	69
+春哥甲	chun ge jia	715
+春哥甲	iygejx	29
+春哥甲	igj	29
+刺客	ci ke	2223
+刺客	cike	77
+刺客	ck	77
+催化神石	cui hua shen shi	657
+催化神石	cvhxufui	27
+催化神石	chuu	27
+脆皮	cui pi	2091
+脆皮	cvpi	73
+脆皮	cp	73
+脆皮鸡	cui pi ji	1413
+脆皮鸡	cvpiji	52
+脆皮鸡	cpj	52
+崔丝塔娜	cui si ta na	1571
+崔丝塔娜	cvsitana	57
+崔丝塔娜	cstn	57
+崔丝塔娜	cstn efvatkne	57
+崔斯特	cui si te	1539
+崔斯特	cvsite	56
+崔斯特	cst	56
+崔斯特	cst efqjnc	56
+大棒	da bang	802
+大棒	dabh	32
+大棒	db	32
+打爆	da bao	176
+打爆	dabc	9
+打爆	db	9
+打崩	da beng	275
+打崩	dabg	13
+打崩	db	13
+打崩	db fdeo	13
+打兵	da bing	488
+打兵	dabk	21
+打兵	db	21
+打兵	db fdqb	21
+大虫子	da chong zi	1133
+大虫子	daiszi	43
+大虫子	diz	43
+大厨	da chu	1508
+大厨	daiu	55
+大厨	di	55
+打断技能	da duan ji neng	1041
+打断技能	dadrjing	40
+打断技能	ddjn	40
+大发明家	da fa ming jia	1667
+大发明家	dafamkjx	60
+大发明家	dfmj	60
+大盖伦	da gai lun	85
+大盖伦	dagdly	5
+大盖伦	dgl	5
+大哥就靠你了	da ge jiu kao ni le	10
+大哥就靠你了	dagejqkcnile	1
+大哥就靠你了	dgjknl	1
+大号	da hao	153
+大号	dahc	8
+大号	dh	8
+大红	da hong	1011
+大红	dahs	39
+大红	dh	39
+大控	da kong	1041
+大控	daks	40
+大控	dk	40
+大快朵颐	da kuai duo yi	1508
+大快朵颐	dakkdoyi	55
+大快朵颐	dkdy	55
+大蓝	da lan	981
+大蓝	dalj	38
+大蓝	dl	38
+打蓝	da lan	2223
+打蓝	dalj	77
+打蓝	dl	77
+打蓝	dl fdcm	77
+大龙	da long	2223
+大龙	dals	77
+大龙	dl	77
+大龙集合	da long ji he	65
+大龙集合	dalsjihe	4
+大龙集合	dljh	4
+大乱斗	da luan dou	1072
+大乱斗	dalrdz	41
+大乱斗	dld	41
+大肉	da rou	2091
+大肉	darz	73
+大肉	dr	73
+打肉	da rou	544
+打肉	darz	23
+打肉	dr	23
+打肉	dr fdnr	23
+大神	da shen	380
+大神	dauf	17
+大神	du	17
+大圣杯	da sheng bei	832
+大圣杯	daugbw	33
+大圣杯	dub	33
+大树	da shu	1256
+大树	dauu	47
+大树	du	47
+大天使	da tian shi	832
+大天使	datmui	33
+大天使	dtu	33
+大天使之杖	da tian shi zhi zhang	832
+大天使之杖	datmuivivh	33
+大天使之杖	dtuvv	33
+大头	da tou	1164
+大头	datz	44
+大头	dt	44
+打完一波	da wan yi bo	65
+打完一波	dawjyibo	4
+打完一波	dwyb	4
+大眼	da yan	1350
+大眼	dayj	50
+大眼	dy	50
+打野	da ye	2256
+打野	daye	78
+打野	dy	78
+打野	dy fdll	78
+打野爸爸	da ye ba ba	85
+打野爸爸	dayebaba	5
+打野爸爸	dybb	5
+打野爸爸速来抓	da ye ba ba su lai zhua	85
+打野爸爸速来抓	dayebabasuldvx	5
+打野爸爸速来抓	dybbslv	5
+打野能出肉	da ye neng chu rou	10
+打野能出肉	dayengiurz	1
+打野能出肉	dynir	1
+打野去偷	da ye qu tou	10
+打野去偷	dayequtz	1
+打野去偷	dyqt	1
+大饮魔刀	da yin mo dao	657
+大饮魔刀	daybmodc	27
+大饮魔刀	dymd	27
+大招	da zhao	2157
+大招	davc	75
+大招	dv	75
+大嘴	da zui	1194
+大嘴	dazv	45
+大嘴	dz	45
+黛安娜	dai an na	1927
+黛安娜	ddanna	68
+黛安娜	dan	68
+黛安娜	dan rhbnne	68
+带线	dai xian	572
+带线	ddxm	24
+带线	dx	24
+单机	dan ji	2190
+单机	djji	76
+单机	dj	76
+单机狗	dan ji gou	406
+单机狗	djjigz	18
+单机狗	djg	18
+单机王	dan ji wang	2190
+单机王	djjiwh	76
+单机王	djw	76
+蛋女	dan nv	1319
+蛋女	djnv	49
+蛋女	dn	49
+单人	dan ren	2223
+单人	djrf	77
+单人	dr	77
+单杀	dan sha	176
+单杀	djua	9
+单杀	du	9
+单杀	du blxm	9
+稻草人	dao cao ren	1102
+稻草人	dcccrf	42
+稻草人	dcr	42
+刀锋妹子	dao feng mei zi	1225
+刀锋妹子	dcfgmwzi	46
+刀锋妹子	dfmz	46
+刀锋意志	dao feng yi zhi	1764
+刀锋意志	dcfgyivi	63
+刀锋意志	dfyv	63
+刀锋之影	dao feng zhi ying	1861
+刀锋之影	dcfgviyk	66
+刀锋之影	dfvy	66
+刀妹	dao mei	1225
+刀妹	dcmw	46
+刀妹	dm	46
+德邦总管	de bang zong guan	1732
+德邦总管	debhzsgr	62
+德邦总管	dbzg	62
+德杯	de bei	406
+德杯	debw	18
+德杯	db	18
+德杯	db ixmb	18
+德莱厄斯	de lai e si	1927
+德莱厄斯	deldeesi	68
+德莱厄斯	dles	68
+德莱文	de lai wen	1927
+德莱文	deldwf	68
+德莱文	dlw	68
+德玛	de ma	1194
+德玛	dema	45
+德玛	dm	45
+德玛	dm ixwm	45
+德玛西亚	de ma xi ya	1041
+德玛西亚	demaxiya	40
+德玛西亚	dmxy	40
+德玛西亚皇子	de ma xi ya huang zi	1796
+德玛西亚皇子	demaxiyahlzi	64
+德玛西亚皇子	dmxyhz	64
+德玛西亚之力	de ma xi ya zhi li	1732
+德玛西亚之力	demaxiyavili	62
+德玛西亚之力	dmxyvl	62
+德玛西亚之翼	de ma xi ya zhi yi	1992
+德玛西亚之翼	demaxiyaviyi	70
+德玛西亚之翼	dmxyvy	70
+登不了	deng bu liao	516
+登不了	dgbuln	22
+登不了	dbl	22
+等离子裂变	deng li zi lie bian	1350
+等离子裂变	dglizilpbm	50
+等离子裂变	dlzlb	50
+灯笼	deng long	686
+灯笼	dgls	28
+灯笼	dl	28
+灯笼	dl hdvl	28
+等我吞噬者叠满了先	deng wo tun shi zhe die man le xian	0
+等我吞噬者叠满了先	dgwotyuivedpmjlexm	0
+等我吞噬者叠满了先	dwtuvdmlx	0
+登一下	deng yi xia	488
+登一下	dgyixx	21
+登一下	dyx	21
+低端局	di duan ju	250
+低端局	didrju	12
+低端局	ddj	12
+地下拳王	di xia quan wang	433
+地下拳王	dixxqrwh	19
+地下拳王	dxqw	19
+电八	dian ba	225
+电八	dmba	11
+电八	db	11
+电二	dian er	225
+电二	dmer	11
+电二	de	11
+电耗子	dian hao zi	1194
+电耗子	dmhczi	45
+电耗子	dhz	45
+电九	dian jiu	200
+电九	dmjq	10
+电九	dj	10
+点劵	dian juan	461
+点劵	dmjr	20
+点劵	dj	20
+电六	dian liu	225
+电六	dmlq	11
+电六	dl	11
+电七	dian qi	225
+电七	dmqi	11
+电七	dq	11
+点燃	dian ran	2058
+点燃	dmrj	72
+点燃	dr	72
+点燃	dr lhhh	72
+电三	dian san	225
+电三	dmsj	11
+电三	ds	11
+电十	dian shi	200
+电十	dmui	10
+电十	du	10
+电十二	dian shi er	176
+电十二	dmuier	9
+电十二	due	9
+电十三	dian shi san	176
+电十三	dmuisj	9
+电十三	dus	9
+电十一	dian shi yi	200
+电十一	dmuiyi	10
+电十一	duy	10
+点死	dian si	488
+点死	dmsi	21
+点死	ds	21
+点死	ds lhdb	21
+电四	dian si	225
+电四	dmsi	11
+电四	ds	11
+点他	dian ta	516
+点他	dmta	22
+点他	dt	22
+点他	dt lhry	22
+点塔	dian ta	488
+点塔	dmta	21
+点塔	dt	21
+点塔	dt lhtk	21
+电玩皮肤	dian wan pi fu	301
+电玩皮肤	dmwjpifu	14
+电玩皮肤	dwpf	14
+电玩系列	dian wan xi lie	301
+电玩系列	dmwjxilp	14
+电玩系列	dwxl	14
+电五	dian wu	225
+电五	dmwu	11
+电五	dw	11
+电信八	dian xin ba	200
+电信八	dmxbba	10
+电信八	dxb	10
+电信二	dian xin er	200
+电信二	dmxber	10
+电信二	dxe	10
+电信九	dian xin jiu	200
+电信九	dmxbjq	10
+电信九	dxj	10
+电信六	dian xin liu	200
+电信六	dmxblq	10
+电信六	dxl	10
+电信七	dian xin qi	200
+电信七	dmxbqi	10
+电信七	dxq	10
+电信三	dian xin san	200
+电信三	dmxbsj	10
+电信三	dxs	10
+电信十	dian xin shi	200
+电信十	dmxbui	10
+电信十	dxu	10
+电信十二	dian xin shi er	176
+电信十二	dmxbuier	9
+电信十二	dxue	9
+电信十三	dian xin shi san	176
+电信十三	dmxbuisj	9
+电信十三	dxus	9
+电信十一	dian xin shi yi	200
+电信十一	dmxbuiyi	10
+电信十一	dxuy	10
+电信四	dian xin si	200
+电信四	dmxbsi	10
+电信四	dxs	10
+电信五	dian xin wu	200
+电信五	dmxbwu	10
+电信五	dxw	10
+电信一	dian xin yi	225
+电信一	dmxbyi	11
+电信一	dxy	11
+电一	dian yi	225
+电一	dmyi	11
+电一	dy	11
+掉段	diao duan	544
+掉段	dndr	23
+掉段	dd	23
+掉段	dd fupy	23
+雕文	diao wen	250
+雕文	dnwf	12
+雕文	dw	12
+顶塔	ding ta	516
+顶塔	dkta	22
+顶塔	dt	22
+董存瑞	dong cun rui	353
+董存瑞	dscyrv	16
+董存瑞	dcr	16
+董存瑞	dcr cvuzwe	16
+董导	dong dao	275
+董导	dsdc	13
+董导	dd	13
+董导	dd cvsc	13
+斗篷	dou peng	744
+斗篷	dzpg	30
+斗篷	dp	30
+斗篷	dp duvz	30
+短剑	duan jian	921
+短剑	drjm	36
+短剑	dj	36
+短剑	dj uard	36
+短手	duan shou	275
+短手	druz	13
+短手	du	13
+断头台	duan tou tai	1319
+断头台	drtztd	49
+断头台	dtt	49
+对点	dui dian	433
+对点	dvdm	19
+对点	dd	19
+对点	dd yclh	19
+对面打大龙了	dui mian da da long le	26
+对面打大龙了	dvmmdadalsle	2
+对面打大龙了	dmddll	2
+对面打小龙	dui mian da xiao long	85
+对面打小龙	dvmmdaxnls	5
+对面打小龙	dmdxl	5
+对面控好多	dui mian kong hao duo	10
+对面控好多	dvmmkshcdo	1
+对面控好多	dmkhd	1
+对面伤害太高啦	dui mian shang hai tai gao la	10
+对面伤害太高啦	dvmmuhhdtdgcla	1
+对面伤害太高啦	dmuhtgl	1
+对面少人	dui mian shao ren	26
+对面少人	dvmmucrf	2
+对面少人	dmur	2
+堆肉	dui rou	744
+堆肉	dvrz	30
+堆肉	dr	30
+堆肉	dr tfnr	30
+对线	dui xian	2124
+对线	dvxm	74
+对线	dx	74
+堆血	dui xue	744
+堆血	dvxt	30
+堆血	dx	30
+对峙	dui zhi	1011
+对峙	dvvi	39
+对峙	dv	39
+对峙	dv ycec	39
+遁地	dun di	1444
+遁地	dydi	53
+遁地	dd	53
+遁地	dd zoty	53
+多大仇	duo da chou	65
+多大仇	dodaiz	4
+多大仇	ddi	4
+多兰盾	duo lan dun	981
+多兰盾	doljdy	38
+多兰盾	dld	38
+多兰剑	duo lan jian	981
+多兰剑	doljjm	38
+多兰剑	dlj	38
+多兰戒	duo lan jie	981
+多兰戒	doljjp	38
+多兰戒	dlj	38
+多兰之盾	duo lan zhi dun	951
+多兰之盾	doljvidy	37
+多兰之盾	dlvd	37
+多兰之戒	duo lan zhi jie	951
+多兰之戒	doljvijp	37
+多兰之戒	dlvj	37
+多兰之刃	duo lan zhi ren	951
+多兰之刃	doljvirf	37
+多兰之刃	dlvr	37
+堕落天使	duo luo tian shi	1571
+堕落天使	dolotmui	57
+堕落天使	dltu	57
+堕天	duo tian	1102
+堕天	dotm	42
+堕天	dt	42
+厄加特	e jia te	1764
+厄加特	eejxte	63
+厄加特	ejt	63
+恶魔法典	e mo fa dian	861
+恶魔法典	eemofadm	34
+恶魔法典	emfd	34
+恶魔小丑	e mo xiao chou	1667
+恶魔小丑	eemoxniz	60
+恶魔小丑	emxi	60
+鳄鱼	e yu	1256
+鳄鱼	eeyu	47
+鳄鱼	ey	47
+厄运小姐	e yun xiao jie	1764
+厄运小姐	eeyyxnjp	63
+厄运小姐	eyxj	63
+二段攻击	er duan gong ji	2091
+二段攻击	erdrgsji	73
+二段攻击	edgj	73
+二楼打野	er lou da ye	65
+二楼打野	erlzdaye	4
+二楼打野	eldy	4
+二楼辅助	er lou fu zhu	45
+二楼辅助	erlzfuvu	3
+二楼辅助	elfv	3
+二楼上单	er lou shang dan	65
+二楼上单	erlzuhdj	4
+二楼上单	elud	4
+二楼下	er lou xia	45
+二楼下	erlzxx	3
+二楼下	elx	3
+二楼中单	er lou zhong dan	65
+二楼中单	erlzvsdj	4
+二楼中单	elvd	4
+二塔	er ta	544
+二塔	erta	23
+二塔	et	23
+儿童劫	er tong jie	380
+儿童劫	ertsjp	17
+儿童劫	etj	17
+法穿	fa chuan	2190
+法穿	fair	76
+法穿	fi	76
+法穿三件套	fa chuan san jian tao	744
+法穿三件套	fairsjjmtc	30
+法穿三件套	fisjt	30
+法穿鞋	fa chuan xie	773
+法穿鞋	fairxp	31
+法穿鞋	fix	31
+法穿杖	fa chuan zhang	832
+法穿杖	fairvh	33
+法穿杖	fiv	33
+法力药水	fa li yao shui	981
+法力药水	faliycuv	38
+法力药水	flyu	38
+法强	fa qiang	891
+法强	faql	35
+法强	fq	35
+法师之靴	fa shi zhi xue	773
+法师之靴	fauivixt	31
+法师之靴	fuvx	31
+法坦	fa tan	628
+法坦	fatj	26
+法坦	ft	26
+发条	fa tiao	1256
+发条	fatn	47
+发条	ft	47
+发条	ft vdwm	47
+发条魔灵	fa tiao mo ling	1829
+发条魔灵	fatnmolk	65
+发条魔灵	ftml	65
+发条魔灵	ftml vdwmggeh	65
+法外狂徒	fa wai kuang tu	1861
+法外狂徒	fawdkltu	66
+法外狂徒	fwkt	66
+发育	fa yu	2190
+发育	fayu	76
+发育	fy	76
+发育	fy vdwo	76
+反蹲	fan dun	433
+反蹲	fjdy	19
+反蹲	fd	19
+反蹲	fd pyzc	19
+反曲之弓	fan qu zhi gong	921
+反曲之弓	fjquvigs	36
+反曲之弓	fqvg	36
+反伤甲	fan shang jia	715
+反伤甲	fjuhjx	29
+反伤甲	fuj	29
+防盗门	fang dao men	1381
+防盗门	fhdcmf	51
+防盗门	fdm	51
+放风筝	fang feng zheng	1011
+放风筝	fhfgvg	39
+放风筝	ffv	39
+防御塔	fang yu ta	600
+防御塔	fhyuta	25
+防御塔	fyt	25
+防御塔	fyt efietk	25
+放逐之刃	fang zhu zhi ren	1861
+放逐之刃	fhvuvirf	66
+放逐之刃	fvvr	66
+菲奥娜	fei ao na	1894
+菲奥娜	fwaona	67
+菲奥娜	fan	67
+菲奥娜	fan cfpdne	67
+费德提克	fei de ti ke	1539
+费德提克	fwdetike	56
+费德提克	fdtk	56
+费德提克	fdtk frixfrue	56
+飞机	fei ji	1164
+飞机	fwji	44
+飞机	fj	44
+菲兹	fei zi	1861
+菲兹	fwzi	66
+菲兹	fz	66
+菲兹	fz cfby	66
+粪叉	fen cha	686
+粪叉	ffia	28
+粪叉	fi	28
+分裂斧	fen lie fu	891
+分裂斧	fflpfu	35
+分裂斧	flf	35
+分裂斧	flf bddybj	35
+风暴之怒	feng bao zhi nu	1635
+风暴之怒	fgbcvinu	59
+风暴之怒	fbvn	59
+蜂刺	feng ci	802
+蜂刺	fgci	32
+蜂刺	fc	32
+疯狗	feng gou	1194
+疯狗	fggz	45
+疯狗	fg	45
+疯狗	fg bxqk	45
+疯狗模式	feng gou mo shi	153
+疯狗模式	fggzmoui	8
+疯狗模式	fgmu	8
+风女	feng nv	1164
+风女	fgnv	44
+风女	fn	44
+风筝	feng zheng	1011
+风筝	fgvg	39
+风筝	fv	39
+复仇焰魂	fu chou yan hun	1829
+复仇焰魂	fuizyjhy	65
+复仇焰魂	fiyh	65
+复仇焰魂	fiyh pwrjhjeg	65
+复仇之矛	fu chou zhi mao	2025
+复仇之矛	fuizvimc	71
+复仇之矛	fivm	71
+负极斗篷	fu ji dou peng	715
+负极斗篷	fujidzpg	29
+负极斗篷	fjdp	29
+负极斗篷	fjdp drmjduvz	29
+弗拉基米尔	fu la ji mi er	1732
+弗拉基米尔	fulajimier	62
+弗拉基米尔	fljme	62
+弗雷尔卓德	fu lei er zhuo de	153
+弗雷尔卓德	fulwervode	8
+弗雷尔卓德	flevd	8
+弗雷尔卓德之心	fu lei er zhuo de zhi xin	2025
+弗雷尔卓德之心	fulwervodevixb	71
+弗雷尔卓德之心	flevdvx	71
+附魔鞋	fu mo xie	744
+附魔鞋	fumoxp	30
+附魔鞋	fmx	30
+附魔鞋	fmx ecgggt	30
+腐蚀之刃	fu shi zhi ren	802
+腐蚀之刃	fuuivirf	32
+腐蚀之刃	fuvr	32
+斧王	fu wang	1319
+斧王	fuwh	49
+斧王	fw	49
+符文	fu wen	1041
+符文	fuwf	40
+符文	fw	40
+符文槽	fu wen cao	250
+符文槽	fuwfcc	12
+符文槽	fwc	12
+符文大陆	fu wen da lu	1011
+符文大陆	fuwfdalu	39
+符文大陆	fwdl	39
+符文阔剑	fu wen kuo jian	406
+符文阔剑	fuwfkojm	18
+符文阔剑	fwkj	18
+符文之地	fu wen zhi di	2058
+符文之地	fuwfvidi	72
+符文之地	fwvd	72
+符文之战	fu wen zhi zhan	250
+符文之战	fuwfvivj	12
+符文之战	fwvv	12
+符印	fu yin	250
+符印	fuyb	12
+符印	fy	12
+符印	fy vcpe	12
+辅助	fu zhu	2223
+辅助	fuvu	77
+辅助	fv	77
+辅助不肉怎么打	fu zhu bu rou zen me da	10
+辅助不肉怎么打	fuvuburzzfmeda	1
+辅助不肉怎么打	fvbrzmd	1
+辅助能出肉	fu zhu neng chu rou	10
+辅助能出肉	fuvungiurz	1
+辅助能出肉	fvnir	1
+盖伦	gai lun	1732
+盖伦	gdly	62
+盖伦	gl	62
+干翻	gan fan	301
+干翻	gjfj	14
+干翻	gf	14
+钢铁大使	gang tie da shi	1699
+钢铁大使	ghtpdaui	61
+钢铁大使	gtdu	61
+钢铁烈阳	gang tie lie yang	200
+钢铁烈阳	ghtplpyh	10
+钢铁烈阳	gtly	10
+钢铁烈阳之匣	gang tie lie yang zhi xia	628
+钢铁烈阳之匣	ghtplpyhvixx	26
+钢铁烈阳之匣	gtlyvx	26
+高地	gao di	600
+高地	gcdi	25
+高地	gd	25
+高地	gd wkty	25
+高端局	gao duan ju	250
+高端局	gcdrju	12
+高端局	gdj	12
+格斗手套	ge dou shou tao	921
+格斗手套	gedzuztc	36
+格斗手套	gdut	36
+个个都肉点	ge ge dou rou dian	10
+个个都肉点	gegedzrzdm	1
+个个都肉点	ggdrd	1
+格雷福斯	ge lei fu si	1861
+格雷福斯	gelwfusi	66
+格雷福斯	glfs	66
+给眼	gei yan	275
+给眼	gwyj	13
+给眼	gy	13
+给眼	gy skog	13
+给中	gei zhong	406
+给中	gwvs	18
+给中	gv	18
+攻击伤害	gong ji shang hai	2157
+攻击伤害	gsjiuhhd	75
+攻击伤害	gjuh	75
+攻击速度	gong ji su du	2157
+攻击速度	gsjisudu	75
+攻击速度	gjsd	75
+攻速	gong su	2157
+攻速	gssu	75
+攻速	gs	75
+攻速	gs gwzu	75
+攻速鞋	gong su xie	773
+攻速鞋	gssuxp	31
+攻速鞋	gsx	31
+攻速鞋	gsx gwzugt	31
+工资装	gong zi zhuang	861
+工资装	gszivl	34
+工资装	gzv	34
+狗头	gou tou	1164
+狗头	gztz	44
+狗头	gt	44
+构造分解	gou zao fen jie	1350
+构造分解	gzzcffjp	50
+构造分解	gzfj	50
+构造分解	gzfj mszkbddn	50
+古拉加斯	gu la jia si	1699
+古拉加斯	gulajxsi	61
+古拉加斯	gljs	61
+骨牙项链	gu ya xiang lian	951
+骨牙项链	guyaxllm	37
+骨牙项链	gyxl	37
+寡妇	gua fu	1133
+寡妇	gxfu	43
+寡妇	gf	43
+寡妇	gf bdne	43
+寡妇制造者	gua fu zhi zao zhe	1603
+寡妇制造者	gxfuvizcve	58
+寡妇制造者	gfvzv	58
+挂机	gua ji	406
+挂机	gxji	18
+挂机	gj	18
+光环装	guang huan zhuang	657
+光环装	glhrvl	27
+光环装	ghv	27
+光环装	ghv xwwbdy	27
+光辉	guang hui	1225
+光辉	glhv	46
+光辉	gh	46
+光辉	gh xwxi	46
+光辉女郎	guang hui nv lang	1764
+光辉女郎	glhvnvlh	63
+光辉女郎	ghnl	63
+光明使者	guang ming shi zhe	951
+光明使者	glmkuive	37
+光明使者	gmuv	37
+光头	guang tou	1102
+光头	gltz	42
+光头	gt	42
+龟龟	gui gui	1133
+龟龟	gvgv	43
+龟龟	gg	43
+鬼书	gui shu	832
+鬼书	gvuu	33
+鬼书	gu	33
+诡术妖姬	gui shu yao ji	1764
+诡术妖姬	gvuuycji	63
+诡术妖姬	guyj	63
+鬼索的狂暴之刃	gui suo de kuang bao zhi ren	802
+鬼索的狂暴之刃	gvsodeklbcvirf	32
+鬼索的狂暴之刃	gsdkbvr	32
+鬼舞姬	gui wu ji	107
+鬼舞姬	gvwuji	6
+鬼舞姬	gwj	6
+过家嘉	guo jia jia	380
+过家嘉	gojxjx	17
+过家嘉	gjj	17
+蛤蟆	ha ma	1508
+蛤蟆	hama	55
+蛤蟆	hm	55
+蛤蟆	hm ikid	55
+哈压库	ha ya ku	433
+哈压库	hayaku	19
+哈压库	hyk	19
+哈压库	hyk kkidgi	19
+海克斯	hai ke si	1041
+海克斯	hdkesi	40
+海克斯	hks	40
+海克斯	hks dmueqj	40
+海克斯核心	hai ke si he xin	951
+海克斯核心	hdkesihexb	37
+海克斯核心	hkshx	37
+海克斯科技枪刃	hai ke si ke ji qiang ren	802
+海克斯科技枪刃	hdkesikejiqlrf	32
+海克斯科技枪刃	hkskjqr	32
+海克斯科技探测器	hai ke si ke ji tan ce qi	951
+海克斯科技探测器	hdkesikejitjceqi	37
+海克斯科技探测器	hkskjtcq	37
+海克斯科技左轮枪	hai ke si ke ji zuo lun qiang	861
+海克斯科技左轮枪	hdkesikejizolyql	34
+海克斯科技左轮枪	hkskjzlq	34
+海克斯饮魔刀	hai ke si yin mo dao	686
+海克斯饮魔刀	hdkesiybmodc	28
+海克斯饮魔刀	hksymd	28
+海洋之灾	hai yang zhi zai	1635
+海洋之灾	hdyhvizd	59
+海洋之灾	hyvz	59
+海妖币	hai yao bi	353
+海妖币	hdycbi	16
+海妖币	hyb	16
+海妖币	hyb dmnypj	16
+寒冰	han bing	1072
+寒冰	hjbk	41
+寒冰	hb	41
+寒冰射手	han bing she shou	1508
+寒冰射手	hjbkueuz	55
+寒冰射手	hbuu	55
+寒冬之咬	han dong zhi yao	1381
+寒冬之咬	hjdsviyc	51
+寒冬之咬	hdvy	51
+韩懿莹	han yi ying	107
+韩懿莹	hjyiyk	6
+韩懿莹	hyy	6
+嚎哭深渊	hao ku shen yuan	1072
+嚎哭深渊	hckuufyr	41
+嚎哭深渊	hkuy	41
+耗蓝	hao lan	802
+耗蓝	hclj	32
+耗蓝	hl	32
+好伤	hao shang	488
+好伤	hcuh	21
+好伤	hu	21
+好伤	hu nzrl	21
+好运姐	hao yun jie	1194
+好运姐	hcyyjp	45
+好运姐	hyj	45
+好运姐	hyj nzzsnq	45
+合金皮肤	he jin pi fu	301
+合金皮肤	hejbpifu	14
+合金皮肤	hjpf	14
+合金装备	he jin zhuang bei	301
+合金装备	hejbvlbw	14
+合金装备	hjvb	14
+赫卡里姆	he ka li mu	1927
+赫卡里姆	hekalimu	68
+赫卡里姆	hklm	68
+河流之王	he liu zhi wang	2058
+河流之王	helqviwh	72
+河流之王	hlvw	72
+河蟹你都要抢	he xie ni dou yao qiang	0
+河蟹你都要抢	hexpnidzycql	0
+河蟹你都要抢	hxndyq	0
+和谐圣杯	he xie sheng bei	861
+和谐圣杯	hexpugbw	34
+和谐圣杯	hxub	34
+黑暗之矛	hei an zhi mao	1444
+黑暗之矛	hwanvimc	53
+黑暗之矛	havm	53
+黑暗之女	hei an zhi nv	1508
+黑暗之女	hwanvinv	55
+黑暗之女	havn	55
+黑白双子	hei bai shuang zi	275
+黑白双子	hwbdulzi	13
+黑白双子	hbuz	13
+黑默丁格	hei mo ding ge	1667
+黑默丁格	hwmodkge	60
+黑默丁格	hmdg	60
+黑切	hei qie	891
+黑切	hwqp	35
+黑切	hq	35
+黑色玫瑰	hei se mei gui	225
+黑色玫瑰	hwsemwgv	11
+黑色玫瑰	hsmg	11
+黑色切割者	hei se qie ge zhe	891
+黑色切割者	hwseqpgeve	35
+黑色切割者	hsqgv	35
+红爸爸	hong ba ba	2223
+红爸爸	hsbaba	77
+红爸爸	hbb	77
+红叉	hong cha	891
+红叉	hsia	35
+红叉	hi	35
+红水晶	hong shui jing	744
+红水晶	hsuvjk	30
+红水晶	huj	30
+厚实表皮	hou shi biao pi	1508
+厚实表皮	hzuibnpi	55
+厚实表皮	hubp	55
+猴子	hou zi	1287
+猴子	hzzi	48
+猴子	hz	48
+护盾	hu dun	2124
+护盾	hudy	74
+护盾	hd	74
+护甲	hu jia	2157
+护甲	hujx	75
+护甲	hj	75
+护甲鞋	hu jia xie	773
+护甲鞋	hujxxp	31
+护甲鞋	hjx	31
+狐狸	hu li	1287
+狐狸	huli	48
+狐狸	hl	48
+狐狸	hl qgql	48
+滑板鞋	hua ban xie	1444
+滑板鞋	hxbjxp	53
+滑板鞋	hbx	53
+华洛	hua luo	1319
+华洛	hxlo	49
+华洛	hl	49
+花式虐狗	hua shi nue gou	301
+花式虐狗	hxuintgz	14
+花式虐狗	hung	14
+花妖	hua yao	1319
+花妖	hxyc	49
+花妖	hy	49
+花妖	hy cbny	49
+唤潮鲛姬	huan chao jiao ji	1959
+唤潮鲛姬	hricjnji	69
+唤潮鲛姬	hijj	69
+唤潮鲛姬	hijj kddoaxnl	69
+换路	huan lu	516
+换路	hrlu	22
+换路	hl	22
+换路	hl fdzk	22
+欢欣	huan xin	744
+欢欣	hrxb	30
+欢欣	hx	30
+幻影之舞	huan ying zhi wu	891
+幻影之舞	hrykviwu	35
+幻影之舞	hyvw	35
+黄叉	huang cha	921
+黄叉	hlia	36
+黄叉	hi	36
+黄鸡	huang ji	1413
+黄鸡	hlji	52
+黄鸡	hj	52
+黄鸡	hj cbyn	52
+黄继光	huang ji guang	353
+黄继光	hljigl	16
+黄继光	hjg	16
+黄金脆皮鸡	huang jin cui pi ji	1413
+黄金脆皮鸡	hljbcvpiji	52
+黄金脆皮鸡	hjcpj	52
+荒漠屠夫	huang mo tu fu	1796
+荒漠屠夫	hlmotufu	64
+荒漠屠夫	hmtf	64
+黄绮珊	huang qi shan	353
+黄绮珊	hlqiuj	16
+黄绮珊	hqu	16
+黄绮珊	hqu cbskwc	16
+黄沙士兵	huang sha shi bing	1413
+黄沙士兵	hluauibk	52
+黄沙士兵	huub	52
+皇子	huang zi	1256
+皇子	hlzi	47
+皇子	hz	47
+皇族力克	huang zu li ke	406
+皇族力克	hlzulike	18
+皇族力克	hzlk	18
+回家	hui jia	26
+回家	hvjx	2
+回家	hj	2
+回血	hui xue	981
+回血	hvxt	38
+回血	hx	38
+魂锁典狱长	hun suo dian yu zhang	1959
+魂锁典狱长	hysodmyuvh	69
+魂锁典狱长	hsdyv	69
+混线	hun xian	2091
+混线	hyxm	73
+混线	hx	73
+火男	huo nan	1256
+火男	honj	47
+火男	hn	47
+火女	huo nv	1072
+火女	honv	41
+火女	hn	41
+火牙狼人	huo ya lang ren	107
+火牙狼人	hoyalhrf	6
+火牙狼人	hylr	6
+极地大乱斗	ji di da luan dou	1072
+极地大乱斗	jididalrdz	41
+极地大乱斗	jddld	41
+机动性	ji dong xing	2091
+机动性	jidsxk	73
+机动性	jdx	73
+疾风剑豪	ji feng jian hao	1992
+疾风剑豪	jifgjmhc	70
+疾风剑豪	jfjh	70
+吉格斯	ji ge si	1894
+吉格斯	jigesi	67
+吉格斯	jgs	67
+几黑	ji hei	488
+几黑	jihw	21
+几黑	jh	21
+集火	ji huo	1011
+集火	jiho	39
+集火	jh	39
+基克的使徒	ji ke de shi tu	686
+基克的使徒	jikedeuitu	28
+基克的使徒	jkdut	28
+基兰	ji lan	1571
+基兰	jilj	57
+基兰	jl	57
+基兰	jl qtbs	57
+鸡毛信	ji mao xin	353
+鸡毛信	jimcxb	16
+鸡毛信	jmx	16
+技能	ji neng	2157
+技能	jing	75
+技能	jn	75
+技能	jn fysb	75
+机器人	ji qi ren	1164
+机器人	jiqirf	44
+机器人	jqr	44
+击杀	ji sha	1011
+击杀	jiua	39
+击杀	ju	39
+吉泰的夺命剃刀	ji tai de duo ming ti dao	921
+吉泰的夺命剃刀	jitddedomktidc	36
+吉泰的夺命剃刀	jtddmtd	36
+机械公敌	ji xie gong di	1829
+机械公敌	jixpgsdi	65
+机械公敌	jxgd	65
+机械先驱	ji xie xian qu	1894
+机械先驱	jixpxmqu	67
+机械先驱	jxxq	67
+疾行之靴	ji xing zhi xue	773
+疾行之靴	jixkvixt	31
+疾行之靴	jxvx	31
+贾克斯	jia ke si	1571
+贾克斯	jxkesi	57
+贾克斯	jks	57
+贾克斯	jks xrueqj	57
+加里奥	jia li ao	1732
+加里奥	jxliao	62
+加里奥	jla	62
+迦娜	jia na	1635
+迦娜	jxna	59
+迦娜	jn	59
+嘉文四世	jia wen si shi	1796
+嘉文四世	jxwfsiui	64
+嘉文四世	jwsu	64
+假眼	jia yan	1072
+假眼	jxyj	41
+假眼	jy	41
+家园卫士	jia yuan wei shi	744
+家园卫士	jxyrwwui	30
+家园卫士	jywu	30
+坚不可摧	jian bu ke cui	1350
+坚不可摧	jmbukecv	50
+坚不可摧	jbkc	50
+剑姬	jian ji	1287
+剑姬	jmji	48
+剑姬	jj	48
+剑姬	jj rdnl	48
+坚韧合剂	jian ren he ji	981
+坚韧合剂	jmrfheji	38
+坚韧合剂	jrhj	38
+减伤	jian shang	628
+减伤	jmuh	26
+减伤	ju	26
+剑圣	jian sheng	1102
+剑圣	jmug	42
+剑圣	ju	42
+教育网专区	jiao yu wang zhuan qu	176
+教育网专区	jnyuwhvrqu	9
+教育网专区	jywvq	9
+教育一	jiao yu yi	176
+教育一	jnyuyi	9
+教育一	jyy	9
+教育一	jyy lwwoaa	9
+皎月	jiao yue	1225
+皎月	jnyt	46
+皎月	jy	46
+皎月女神	jiao yue nv shen	1959
+皎月女神	jnytnvuf	69
+皎月女神	jynu	69
+婕拉	jie la	1927
+婕拉	jpla	68
+婕拉	jl	68
+婕拉	jl nrfl	68
+杰斯	jie si	1927
+杰斯	jpsi	68
+杰斯	js	68
+杰斯	js mhqj	68
+金馆长	jin guan zhang	353
+金馆长	jbgrvh	16
+金馆长	jgv	16
+禁军之墙	jin jun zhi qiang	1413
+禁军之墙	jbjyviql	52
+禁军之墙	jjvq	52
+金克丝	jin ke si	1992
+金克丝	jbkesi	70
+金克丝	jks	70
+金属大师	jin shu da shi	1699
+金属大师	jbuudaui	61
+金属大师	judu	61
+禁谁	jin shui	327
+禁谁	jbuv	15
+禁谁	ju	15
+禁谁	ju mxyf	15
+精华	jing hua	250
+精华	jkhx	12
+精华	jh	12
+荆棘之甲	jing ji zhi jia	715
+荆棘之甲	jkjivijx	29
+荆棘之甲	jjvj	29
+荆棘之兴	jing ji zhi xing	1927
+荆棘之兴	jkjivixk	68
+荆棘之兴	jjvx	68
+净蚀	jing shi	686
+净蚀	jkui	28
+净蚀	ju	28
+酒桶	jiu tong	1699
+酒桶	jqts	61
+酒桶	jt	61
+酒桶	jt dymy	61
+九尾妖狐	jiu wei yao hu	1894
+九尾妖狐	jqwwychu	67
+九尾妖狐	jwyh	67
+菊花信	ju hua xin	1194
+菊花信	juhxxb	45
+菊花信	jhx	45
+菊花信	jhx cmcbrk	45
+巨魔之王	ju mo zhi wang	1796
+巨魔之王	jumoviwh	64
+巨魔之王	jmvw	64
+巨人腰带	ju ren yao dai	715
+巨人腰带	jurfycdd	29
+巨人腰带	jryd	29
+巨舌鞭笞	ju she bian chi	1508
+巨舌鞭笞	juuebmii	55
+巨舌鞭笞	jubi	55
+巨神峰	ju shen feng	1041
+巨神峰	juuffg	40
+巨神峰	juf	40
+巨神坑	ju shen keng	130
+巨神坑	juufkg	7
+巨神坑	juk	7
+绝代智障	jue dai zhi zhang	85
+绝代智障	jtddvivh	5
+绝代智障	jdvv	5
+掘墓	jue mu	1256
+掘墓	jtmu	47
+掘墓	jm	47
+掘墓	jm fict	47
+掘墓者	jue mu zhe	1829
+掘墓者	jtmuve	65
+掘墓者	jmv	65
+掘墓者	jmv fictlo	65
+均衡教派	jun heng jiao pai	225
+均衡教派	jyhgjnpd	11
+均衡教派	jhjp	11
+均衡教派	jhjp tdiilwdn	11
+军团圣盾	jun tuan sheng dun	657
+军团圣盾	jytrugdy	27
+军团圣盾	jtud	27
+卡尔玛	ka er ma	1796
+卡尔玛	kaerma	64
+卡尔玛	kem	64
+卡尔玛	kem ubdxwm	64
+卡尔萨斯	ka er sa si	1603
+卡尔萨斯	kaersasi	58
+卡尔萨斯	kess	58
+卡尔萨斯	kess ubdxciqj	58
+卡拉曼达	ka la man da	130
+卡拉曼达	kalamjda	7
+卡拉曼达	klmd	7
+卡了	ka le	153
+卡了	kale	8
+卡了	kl	8
+卡莉丝塔	ka li si ta	2025
+卡莉丝塔	kalisita	71
+卡莉丝塔	klst	71
+卡牌	ka pai	1102
+卡牌	kapd	42
+卡牌	kp	42
+卡牌	kp ubpu	42
+卡牌大师	ka pai da shi	1539
+卡牌大师	kapddaui	56
+卡牌大师	kpdu	56
+卡萨丁	ka sa ding	1635
+卡萨丁	kasadk	59
+卡萨丁	ksd	59
+卡特	ka te	1164
+卡特	kate	44
+卡特	kt	44
+卡特	kt ubnc	44
+卡特琳娜	ka te lin na	1667
+卡特琳娜	katelbna	60
+卡特琳娜	ktln	60
+卡特琳娜	ktln ubncwmne	60
+卡西奥佩娅	ka xi ao pei ya	1796
+卡西奥佩娅	kaxiaopwya	64
+卡西奥佩娅	kxapy	64
+卡兹克	ka zi ke	1959
+卡兹克	kazike	69
+卡兹克	kzk	69
+卡兹克	kzk ubbyue	69
+凯尔	kai er	1539
+凯尔	kder	56
+凯尔	ke	56
+凯尔	ke ejdx	56
+开干	kai gan	433
+开干	kdgj	19
+开干	kg	19
+开搞	kai gao	433
+开搞	kdgc	19
+开搞	kg	19
+开撸	kai lu	433
+开撸	kdlu	19
+开撸	kl	19
+凯南	kai nan	1699
+凯南	kdnj	61
+凯南	kn	61
+凯特琳	kai te lin	1796
+凯特琳	kdtelb	64
+凯特琳	ktl	64
+凯特琳	ktl ejncwm	64
+勘探者之戒	kan tan zhe zhi jie	951
+勘探者之戒	kjtjvevijp	37
+勘探者之戒	ktvvj	37
+勘探者之刃	kan tan zhe zhi ren	951
+勘探者之刃	kjtjvevirf	37
+勘探者之刃	ktvvr	37
+亢奋	kang fen	1381
+亢奋	khff	51
+亢奋	kf	51
+亢奋	kf wjdt	51
+抗伤害	kang shang hai	2190
+抗伤害	khuhhd	76
+抗伤害	kuh	76
+抗塔	kang ta	2124
+抗塔	khta	74
+抗塔	kt	74
+抗塔	kt fjtk	74
+抗压	kang ya	153
+抗压	khya	8
+抗压	ky	8
+抗压	ky fjid	8
+克格莫	ke ge mo	1732
+克格莫	kegemo	62
+克格莫	kgm	62
+科技枪	ke ji qiang	802
+科技枪	kejiql	32
+科技枪	kjq	32
+科加斯	ke jia si	1603
+科加斯	kejxsi	58
+科加斯	kjs	58
+肯德姬	ken de ji	380
+肯德姬	kfdeji	17
+肯德姬	kdj	17
+肯德姬	kdj voixnl	17
+坑比	keng bi	544
+坑比	kgbi	23
+坑比	kb	23
+控到	kong dao	516
+控到	ksdc	22
+控到	kd	22
+控到	kd fgad	22
+控线	kong xian	572
+控线	ksxm	24
+控线	kx	24
+控住	kong zhu	544
+控住	ksvu	23
+控住	kv	23
+口水鸡	kou shui ji	353
+口水鸡	kzuvji	16
+口水鸡	kuj	16
+库奇	ku qi	1667
+库奇	kuqi	60
+库奇	kq	60
+库奇	kq gidk	60
+枯萎之壤	ku wei zhi rang	107
+枯萎之壤	kuwwvirh	6
+枯萎之壤	kwvr	6
+快卖装备出肉	kuai mai zhuang bei chu rou	107
+快卖装备出肉	kkmdvlbwiurz	6
+快卖装备出肉	kmvbir	6
+快闪	kuai shan	65
+快闪	kkuj	4
+快闪	ku	4
+快投	kuai tou	488
+快投	kktz	21
+快投	kt	21
+快投	kt xnfy	21
+狂暴之心	kuang bao zhi xin	1699
+狂暴之心	klbcvixb	61
+狂暴之心	kbvx	61
+狂怒基因	kuang nu ji yin	1413
+狂怒基因	klnujiyb	52
+狂怒基因	knjy	52
+狂热	kuang re	921
+狂热	klre	36
+狂热	kr	36
+狂热	kr qwfh	36
+狂沙猛攻	kuang sha meng gong	1413
+狂沙猛攻	kluamggs	52
+狂沙猛攻	kumg	52
+狂徒	kuang tu	715
+狂徒	kltu	29
+狂徒	kt	29
+狂徒	kt qwir	29
+狂徒铠甲	kuang tu kai jia	715
+狂徒铠甲	kltukdjx	29
+狂徒铠甲	ktkj	29
+狂野女猎手	kuang ye nv lie shou	1699
+狂野女猎手	klyenvlpuz	61
+狂野女猎手	kynlu	61
+狂野之噬	kuang ye zhi shi	1444
+狂野之噬	klyeviui	53
+狂野之噬	kyvu	53
+狂战士	kuang zhan shi	1732
+狂战士	klvjui	62
+狂战士	kvu	62
+狂战士胫甲	kuang zhan shi jing jia	773
+狂战士胫甲	klvjuijkjx	31
+狂战士胫甲	kvujj	31
+奎因	kui yin	1992
+奎因	kvyb	70
+奎因	ky	70
+垃圾桶	la ji tong	380
+垃圾桶	lajits	17
+垃圾桶	ljt	17
+拉克丝	la ke si	1764
+拉克丝	lakesi	63
+拉克丝	lks	63
+拉克丝	lks flueva	63
+拉莫斯	la mo si	1603
+拉莫斯	lamosi	58
+拉莫斯	lms	58
+拉莫斯	lms flcdqj	58
+来刀	lai dao	301
+来刀	lddc	14
+来刀	ld	14
+来中	lai zhong	488
+来中	ldvs	21
+来中	lv	21
+蓝爸爸	lan ba ba	2223
+蓝爸爸	ljbaba	77
+蓝爸爸	lbb	77
+兰博	lan bo	1829
+兰博	ljbo	65
+兰博	lb	65
+兰顿	lan dun	686
+兰顿	ljdy	28
+兰顿	ld	28
+兰顿	ld bstr	28
+蓝盾	lan dun	153
+蓝盾	ljdy	8
+蓝盾	ld	8
+蓝盾	ld cmpo	8
+兰顿之兆	lan dun zhi zhao	715
+兰顿之兆	ljdyvivc	29
+兰顿之兆	ldvv	29
+蓝水晶	lan shui jing	861
+蓝水晶	ljuvjk	34
+蓝水晶	luj	34
+蓝焰岛	lan yan dao	250
+蓝焰岛	ljyjdc	12
+蓝焰岛	lyd	12
+蓝焰岛	lyd cmhjpe	12
+蓝药	lan yao	2190
+蓝药	ljyc	76
+蓝药	ly	76
+蓝药	ly cmcu	76
+狼人	lang ren	1102
+狼人	lhrf	42
+狼人	lr	42
+老皇族	lao huang zu	353
+老皇族	lchlzu	16
+老皇族	lhz	16
+老鼠	lao shu	1133
+老鼠	lcuu	43
+老鼠	lu	43
+老鼠	lu lbjv	43
+老头	lao tou	1133
+老头	lctz	43
+老头	lt	43
+劳资	lao zi	153
+劳资	lczi	8
+劳资	lz	8
+劳资都上了你们人在哪里	lao zi dou shang le ni men ren zai na li	107
+劳资都上了你们人在哪里	lczidzuhlenimfrfzdnali	6
+劳资都上了你们人在哪里	lzdulnmrznl	6
+乐芙兰	le fu lan	1764
+乐芙兰	lefulj	63
+乐芙兰	lfl	63
+雷恩加尔	lei en jia er	1959
+雷恩加尔	lwenjxer	69
+雷恩加尔	leje	69
+雷克顿	lei ke dun	1796
+雷克顿	lwkedy	64
+雷克顿	lkd	64
+雷克顿	lkd ytuetr	64
+雷克塞	lei ke sai	2025
+雷克塞	lwkesd	71
+雷克塞	lks	71
+雷克塞	lks ytuebt	71
+蕾欧娜	lei ou na	1829
+蕾欧娜	lwouna	65
+蕾欧娜	lon	65
+雷瑟守备	lei se shou bei	225
+雷瑟守备	lwseuzbw	11
+雷瑟守备	lsub	11
+雷霆咆哮	lei ting pao xiao	1894
+雷霆咆哮	lwtkpcxn	67
+雷霆咆哮	ltpx	67
+冷却	leng que	2124
+冷却	lgqt	74
+冷却	lq	74
+李代沫	li dai mo	1381
+李代沫	liddmo	51
+李代沫	ldm	51
+李青	li qing	1829
+李青	liqk	65
+李青	lq	65
+李青	lq mzfo	65
+丽桑卓	li sang zhuo	1992
+丽桑卓	lishvo	70
+丽桑卓	lsv	70
+连抽	lian chou	301
+连抽	lmiz	14
+连抽	li	14
+炼金	lian jin	1133
+炼金	lmjb	43
+炼金	lj	43
+炼金术士	lian jin shu shi	1571
+炼金术士	lmjbuuui	57
+炼金术士	ljuu	57
+猎物搜寻	lie wu sou xun	1444
+猎物搜寻	lpwuszxy	53
+猎物搜寻	lwsx	53
+烈阳族	lie yang zu	130
+烈阳族	lpyhzu	7
+烈阳族	lyz	7
+凛冬之怒	lin dong zhi nu	1894
+凛冬之怒	lbdsvinu	67
+凛冬之怒	ldvn	67
+零封	ling feng	406
+零封	lkfg	18
+零封	lf	18
+灵魂法衣	ling hun fa yi	628
+灵魂法衣	lkhyfayi	26
+灵魂法衣	lhfy	26
+灵巧披风	ling qiao pi feng	921
+灵巧披风	lkqnpifg	36
+灵巧披风	lqpf	36
+灵巧披风	lqpf ehgvfyjx	36
+凌云飞龙	ling yun fei long	275
+凌云飞龙	lkyyfwls	13
+凌云飞龙	lyfl	13
+流浪	liu lang	1102
+流浪	lqlh	42
+流浪	ll	42
+流浪	ll dvdl	42
+流浪法师	liu lang fa shi	1571
+流浪法师	lqlhfaui	57
+流浪法师	llfu	57
+溜溜溜溜溜溜溜	liu liu liu liu liu liu liu	26
+溜溜溜溜溜溜溜	lqlqlqlqlqlqlq	2
+溜溜溜溜溜溜溜	lllllll	2
+溜溜溜溜溜溜溜	lllllll dtdtdtdtdtdtdt	2
+六杀	liu sha	461
+六杀	lqua	20
+六杀	lu	20
+六杀	lu wbxm	20
+流沙移形	liu sha yi xing	1413
+流沙移形	lquayixk	52
+流沙移形	luyx	52
+龙龟	long gui	1133
+龙龟	lsgv	43
+龙龟	lg	43
+龙女	long nv	1287
+龙女	lsnv	48
+龙女	ln	48
+龙血武姬	long xue wu ji	1861
+龙血武姬	lsxtwuji	66
+龙血武姬	lxwj	66
+撸啊撸	lu a lu	1350
+撸啊撸	luaalu	50
+撸啊撸	lal	50
+撸啊撸	lal fokkfo	50
+璐璐	lu lu	1927
+璐璐	lulu	68
+璐璐	ll	68
+璐璐	ll wkwk	68
+璐璐皮肤	lu lu pi fu	85
+璐璐皮肤	lulupifu	5
+璐璐皮肤	llpf	5
+路人	lu ren	2190
+路人	lurf	76
+路人	lr	76
+路人王	lu ren wang	327
+路人王	lurfwh	15
+路人王	lrw	15
+撸完	lu wan	406
+撸完	luwj	18
+撸完	lw	18
+卢锡安	lu xi an	1992
+卢锡安	luxian	70
+卢锡安	lxa	70
+卢锡安	lxa lujwbn	70
+轮子妈	lun zi ma	1102
+轮子妈	lyzima	42
+轮子妈	lzm	42
+旅者的召唤	lv zhe de zhao huan	1476
+旅者的召唤	lvvedevchr	54
+旅者的召唤	lvdvh	54
+玛尔扎哈	ma er zha ha	1732
+玛尔扎哈	maervaha	62
+玛尔扎哈	mevh	62
+玛尔扎哈	mevh wmdxfvkk	62
+马猴烧酒	ma hou shao jiu	1225
+马猴烧酒	mahzucjq	46
+马猴烧酒	mhuj	46
+玛莫提乌斯之噬	ma mo ti wu si zhi shi	657
+玛莫提乌斯之噬	mamotiwusiviui	27
+玛莫提乌斯之噬	mmtwsvu	27
+蚂蚱	ma zha	1194
+蚂蚱	mava	45
+蚂蚱	mv	45
+蚂蚱	mv imiv	45
+买红	mai hong	1011
+买红	mdhs	39
+买红	mh	39
+买红	mh vdsg	39
+买蓝	mai lan	1011
+买蓝	mdlj	39
+买蓝	ml	39
+买蓝	ml vdcm	39
+麦林	mai lin	85
+麦林	mdlb	5
+麦林	ml	5
+麦林炮手	mai lin pao shou	1571
+麦林炮手	mdlbpcuz	57
+麦林炮手	mlpu	57
+蛮三刀	man san dao	1133
+蛮三刀	mjsjdc	43
+蛮三刀	msd	43
+蛮王	man wang	1133
+蛮王	mjwh	43
+蛮王	mw	43
+蛮子	man zi	1133
+蛮子	mjzi	43
+蛮子	mz	43
+蛮族之王	man zu zhi wang	1603
+蛮族之王	mjzuviwh	58
+蛮族之王	mzvw	58
+盲僧	mang seng	1829
+盲僧	mhsg	65
+盲僧	ms	65
+盲僧	ms woro	65
+盲仔	mang zai	327
+盲仔	mhzd	15
+盲仔	mz	15
+盲仔	mz worz	15
+茂凯	mao kai	1796
+茂凯	mckd	64
+茂凯	mk	64
+茂凯	mk cwej	64
+毛润之	mao run zhi	353
+毛润之	mcryvi	16
+毛润之	mrv	16
+帽子	mao zi	832
+帽子	mczi	33
+帽子	mz	33
+梅贾的窃魂卷	mei jia de qie hun juan	951
+梅贾的窃魂卷	mwjxdeqphyjr	37
+梅贾的窃魂卷	mjdqhj	37
+蒙多	meng duo	1667
+蒙多	mgdo	60
+蒙多	md	60
+猛虎摔跤手	meng hu shuai jiao shou	1350
+猛虎摔跤手	mghuukjnuz	50
+猛虎摔跤手	mhuju	50
+猛踏	meng ta	1381
+猛踏	mgta	51
+猛踏	mt	51
+猛踏	mt qmzo	51
+梦魇	meng yan	1256
+梦魇	mgyj	47
+梦魇	my	47
+梦魇	my mxig	47
+萌侦探	meng zhen tan	1381
+萌侦探	mgvftj	51
+萌侦探	mvt	51
+迷失之牙	mi shi zhi ya	2025
+迷失之牙	miuiviya	71
+迷失之牙	muvy	71
+迷之感动	mi zhi gan dong	433
+迷之感动	mivigjds	19
+迷之感动	mvgd	19
+喵尔摩斯	miao er mo si	1381
+喵尔摩斯	mnermosi	51
+喵尔摩斯	mems	51
+灭世者的死亡之帽	mie shi zhe de si wang zhi mao	832
+灭世者的死亡之帽	mpuivedesiwhvimc	33
+灭世者的死亡之帽	muvdswvm	33
+冥火之拥	ming huo zhi yong	861
+冥火之拥	mkhoviys	34
+冥火之拥	mhvy	34
+明朗之靴	ming lang zhi xue	773
+明朗之靴	mklhvixt	31
+明朗之靴	mlvx	31
+命运的召唤	ming yun de zhao huan	1444
+命运的召唤	mkyydevchr	53
+命运的召唤	mydvh	53
+莫德凯撒	mo de kai sa	1699
+莫德凯撒	modekdsa	61
+莫德凯撒	mdks	61
+莫德凯撒	mdks cdixejfw	61
+魔法回复	mo fa hui fu	2157
+魔法回复	mofahvfu	75
+魔法回复	mfhf	75
+魔法抗性	mo fa kang xing	2157
+魔法抗性	mofakhxk	75
+魔法抗性	mfkx	75
+魔法值	mo fa zhi	2157
+魔法值	mofavi	75
+魔法值	mfv	75
+墨菲特	mo fei te	1635
+墨菲特	mofwte	59
+墨菲特	mft	59
+墨菲特	mft htcfnc	59
+莫甘娜	mo gan na	1571
+莫甘娜	mogjna	57
+莫甘娜	mgn	57
+魔抗	mo kang	2190
+魔抗	mokh	76
+魔抗	mk	76
+魔抗	mk ggfj	76
+莫雷洛的邪术秘典	mo lei luo de xie shu mi dian	832
+莫雷洛的邪术秘典	molwlodexpuumidm	33
+莫雷洛的邪术秘典	mlldxumd	33
+魔力瞎	mo li xia	380
+魔力瞎	molixx	17
+魔力瞎	mlx	17
+末日使者	mo ri shi zhe	1539
+末日使者	moriuive	56
+末日使者	mruv	56
+魔蛇之拥	mo she zhi yong	1796
+魔蛇之拥	moueviys	64
+魔蛇之拥	muvy	64
+魔腾	mo teng	1796
+魔腾	motg	64
+魔腾	mt	64
+魔腾	mt ggom	64
+魔宗	mo zong	802
+魔宗	mozs	32
+魔宗	mz	32
+魔宗利刃	mo zong li ren	802
+魔宗利刃	mozslirf	32
+魔宗利刃	mzlr	32
+暮光之眼	mu guang zhi yan	1699
+暮光之眼	muglviyj	61
+暮光之眼	mgvy	61
+呐啊	na a	1381
+呐啊	naaa	51
+呐啊	na	51
+呐啊	na knkk	51
+纳尔	na er	2025
+纳尔	naer	71
+纳尔	ne	71
+纳尔	ne sndx	71
+拿红	na hong	2223
+拿红	nahs	77
+拿红	nh	77
+娜美	na mei	1959
+娜美	namw	69
+娜美	nm	69
+娜美	nm neyd	69
+纳什男爵	na shi nan jue	572
+纳什男爵	nauinjjt	24
+纳什男爵	nunj	24
+纳什男爵	nunj snrutlpc	24
+纳什之牙	na shi zhi ya	802
+纳什之牙	nauiviya	32
+纳什之牙	nuvy	32
+奶大力	nai da li	1164
+奶大力	nddali	44
+奶大力	ndl	44
+奈德丽	nai de li	1699
+奈德丽	nddeli	61
+奈德丽	ndl	61
+奶妈	nai ma	1225
+奶妈	ndma	46
+奶妈	nm	46
+奶妈	nm nnnm	46
+男刀	nan dao	1287
+男刀	njdc	48
+男刀	nd	48
+男枪	nan qiang	1287
+男枪	njql	48
+男枪	nq	48
+男枪	nq tlmv	48
+男三箭	nan san jian	85
+男三箭	njsjjm	5
+男三箭	nsj	5
+内瑟斯	nei se si	1667
+内瑟斯	nwsesi	60
+内瑟斯	nss	60
+内塔	nei ta	600
+内塔	nwta	25
+内塔	nt	25
+你登	ni deng	516
+你登	nidg	22
+你登	nd	22
+你登	nd rxva	22
+你坑	ni keng	327
+你坑	nikg	15
+你坑	nk	15
+你们别打	ni men bie da	0
+你们别打	nimfbpda	0
+你们别打	nmbd	0
+你们别打	nmbd rxrmkdfd	0
+你奶	ni nai	301
+你奶	nind	14
+你奶	nn	14
+你奶	nn rxnn	14
+你人头再多有什么用	ni ren tou zai duo you shen me yong	10
+你人头再多有什么用	nirftzzddoyzufmeys	1
+你人头再多有什么用	nrtzdyumy	1
+你邀	ni yao	516
+你邀	niyc	22
+你邀	ny	22
+你邀	ny rxzw	22
+你邀我	ni yao wo	461
+你邀我	niycwo	20
+你邀我	nyw	20
+你怎么又死了	ni zen me you si le	107
+你怎么又死了	nizfmeyzsile	6
+你怎么又死了	nzmysl	6
+碾压	nian ya	951
+碾压	nmya	37
+碾压	ny	37
+碾压	ny unid	37
+鸟盾	niao dun	628
+鸟盾	nndy	26
+鸟盾	nd	26
+鸟人	niao ren	1413
+鸟人	nnrf	52
+鸟人	nr	52
+您别送了行吗	nin bie song le xing ma	65
+您别送了行吗	nbbpsslexkma	4
+您别送了行吗	nbslxm	4
+扭曲丛林	niu qu cong lin	1072
+扭曲丛林	nqqucslb	41
+扭曲丛林	nqcl	41
+扭曲树精	niu qu shu jing	1796
+扭曲树精	nqquuujk	64
+扭曲树精	nquj	64
+牛头	niu tou	1072
+牛头	nqtz	41
+牛头	nt	41
+牛头酋长	niu tou qiu zhang	1508
+牛头酋长	nqtzqqvh	55
+牛头酋长	ntqv	55
+努努	nu nu	1539
+努努	nunu	56
+努努	nn	56
+努努	nn nlnl	56
+诺克萨斯	nuo ke sa si	225
+诺克萨斯	nokesasi	11
+诺克萨斯	nkss	11
+诺克萨斯	nkss ykueciqj	11
+诺克萨斯之手	nuo ke sa si zhi shou	1927
+诺克萨斯之手	nokesasiviuz	68
+诺克萨斯之手	nkssvu	68
+诺手	nuo shou	1319
+诺手	nouz	49
+诺手	nu	49
+诺提勒斯	nuo ti le si	1894
+诺提勒斯	notilesi	67
+诺提勒斯	ntls	67
+女刀	nv dao	1225
+女刀	nvdc	46
+女刀	nd	46
+女警	nv jing	1225
+女警	nvjk	46
+女警	nj	46
+女枪	nv qiang	1225
+女枪	nvql	46
+女枪	nq	46
+女三箭	nv san jian	85
+女三箭	nvsjjm	5
+女三箭	nsj	5
+女神之泪	nv shen zhi lei	861
+女神之泪	nvufvilw	34
+女神之泪	nuvl	34
+女坦	nv tan	1256
+女坦	nvtj	47
+女坦	nt	47
+女王之怒	nv wang zhi nu	1476
+女王之怒	nvwhvinu	54
+女王之怒	nwvn	54
+女妖	nv yao	715
+女妖	nvyc	29
+女妖	ny	29
+女妖面纱	nv yao mian sha	715
+女妖面纱	nvycmmua	29
+女妖面纱	nymu	29
+排位	pai wei	153
+排位	pdww	8
+排位	pw	8
+排位	pw ffrl	8
+排眼	pai yan	275
+排眼	pdyj	13
+排眼	py	13
+排眼	py ffog	13
+潘森	pan sen	1699
+潘森	pjsf	61
+潘森	ps	61
+潘森	ps dtmm	61
+螃蟹	pang xie	1194
+螃蟹	phxp	45
+螃蟹	px	45
+炮姐	pao jie	1225
+炮姐	pcjp	46
+炮姐	pj	46
+炮娘	pao niang	1102
+炮娘	pcnl	42
+炮娘	pn	42
+炮蟹	pao xie	327
+炮蟹	pcxp	15
+炮蟹	px	15
+培养品味	pei yang pin wei	1508
+培养品味	pwyhpbww	55
+培养品味	pypw	55
+喷人	pen ren	130
+喷人	pfrf	7
+喷人	pr	7
+皮城	pi cheng	1225
+皮城	piig	46
+皮城	pi	46
+皮城警备	pi cheng jing bei	107
+皮城警备	piigjkbw	6
+皮城警备	pijb	6
+皮城女警	pi cheng nv jing	1796
+皮城女警	piignvjk	64
+皮城女警	pinj	64
+皮城执法官	pi cheng zhi fa guan	1959
+皮城执法官	piigvifagr	69
+皮城执法官	pivfg	69
+皮尔特沃夫	pi er te wo fu	225
+皮尔特沃夫	piertewofu	11
+皮尔特沃夫	petwf	11
+披甲龙龟	pi jia long gui	1603
+披甲龙龟	pijxlsgv	58
+披甲龙龟	pjlg	58
+匹配	pi pei	2190
+匹配	pipw	76
+匹配	pp	76
+匹配一局	pi pei yi ju	250
+匹配一局	pipwyiju	12
+匹配一局	ppyj	12
+皮特沃夫	pi te wo fu	1072
+皮特沃夫	pitewofu	41
+皮特沃夫	ptwf	41
+破上路	po shang lu	572
+破上路	pouhlu	24
+破上路	pul	24
+破土而出	po tu er chu	1444
+破土而出	potueriu	53
+破土而出	ptei	53
+破下路	po xia lu	572
+破下路	poxxlu	24
+破下路	pxl	24
+普攻	pu gong	2157
+普攻	pugs	75
+普攻	pg	75
+普攻	pg bogw	75
+普朗克	pu lang ke	1635
+普朗克	pulhke	59
+普朗克	plk	59
+普朗克	plk bodoue	59
+普莉斯拉的祝福	pu li si la de zhu fu	921
+普莉斯拉的祝福	pulisiladevufu	36
+普莉斯拉的祝福	plsldvf	36
+齐天大圣	qi tian da sheng	1861
+齐天大圣	qitmdaug	66
+齐天大圣	qtdu	66
+千年腊肉	qian nian la rou	353
+千年腊肉	qmnmlarz	16
+千年腊肉	qnlr	16
+谦神	qian shen	1287
+谦神	qmuf	48
+谦神	qu	48
+谦神	qu ynpu	48
+抢兵	qiang bing	406
+抢兵	qlbk	18
+抢兵	qb	18
+抢兵	qb fvqb	18
+抢位置	qiang wei zhi	130
+抢位置	qlwwvi	7
+抢位置	qwv	7
+抢位置	qwv fvrlsq	7
+琴女	qin nv	1225
+琴女	qbnv	46
+琴女	qn	46
+琴瑟仙女	qin se xian nv	1764
+琴瑟仙女	qbsexmnv	63
+琴瑟仙女	qsxn	63
+轻灵之靴	qing ling zhi xue	773
+轻灵之靴	qklkvixt	31
+轻灵之靴	qlvx	31
+轻跳	qing tiao	1381
+轻跳	qktn	51
+轻跳	qt	51
+清晰术	qing xi shu	2058
+清晰术	qkxiuu	72
+清晰术	qxu	72
+轻语	qing yu	891
+轻语	qkyu	35
+轻语	qy	35
+求你别送	qiu ni bie song	26
+求你别送	qqnibpss	2
+求你别送	qnbs	2
+球女	qiu nv	1319
+球女	qqnv	49
+球女	qn	49
+邱少云	qiu shao yun	353
+邱少云	qqucyy	16
+邱少云	quy	16
+去中	qu zhong	544
+去中	quvs	23
+去中	qv	23
+拳女	quan nv	1319
+拳女	qrnv	49
+拳女	qn	49
+泉水	quan shui	600
+泉水	qruv	25
+泉水	qu	25
+群体控制	qun ti kong zhi	628
+群体控制	qytiksvi	26
+群体控制	qtkv	26
+燃烧宝石	ran shao bao shi	657
+燃烧宝石	rjucbcui	27
+燃烧宝石	rubu	27
+热血班长	re xue ban zhang	275
+热血班长	rextbjvh	13
+热血班长	rxbv	13
+人机	ren ji	153
+人机	rfji	8
+人机	rj	8
+人马	ren ma	1287
+人马	rfma	48
+人马	rm	48
+人头狗	ren tou gou	1319
+人头狗	rftzgz	49
+人头狗	rtg	49
+任性学霸	ren xing xue ba	1476
+任性学霸	rfxkxtba	54
+任性学霸	rxxb	54
+人鱼	ren yu	1319
+人鱼	rfyu	49
+人鱼	ry	49
+忍者足具	ren zhe zu ju	773
+忍者足具	rfvezuju	31
+忍者足具	rvzj	31
+忍者足具	rvzj rxlokrqb	31
+日狗	ri gou	488
+日狗	rigz	21
+日狗	rg	21
+日女	ri nv	1287
+日女	rinv	48
+日女	rn	48
+日炎	ri yan	153
+日炎	riyj	8
+日炎	ry	8
+日炎斗篷	ri yan dou peng	686
+日炎斗篷	riyjdzpg	28
+日炎斗篷	rydp	28
+熔岩巨兽	rong yan ju shou	1667
+熔岩巨兽	rsyjjuuz	60
+熔岩巨兽	ryju	60
+荣耀行刑官	rong yao xing xing guan	1927
+荣耀行刑官	rsycxkxkgr	68
+荣耀行刑官	ryxxg	68
+肉点	rou dian	516
+肉点	rzdm	22
+肉点	rd	22
+肉点	rd nrlh	22
+肉盾	rou dun	628
+肉盾	rzdy	26
+肉盾	rd	26
+肉盾	rd nrpo	26
+瑞格之灯	rui ge zhi deng	686
+瑞格之灯	rvgevidg	28
+瑞格之灯	rgvd	28
+瑞莱的冰晶节杖	rui lai de bing jing jie zhang	832
+瑞莱的冰晶节杖	rvlddebkjkjpvh	33
+瑞莱的冰晶节杖	rldbjjv	33
+锐雯	rui wen	1861
+锐雯	rvwf	66
+锐雯	rw	66
+锐雯	rw jeyw	66
+瑞兹	rui zi	1539
+瑞兹	rvzi	56
+瑞兹	rz	56
+瑞兹	rz weby	56
+萨科	sa ke	1667
+萨科	sake	60
+萨科	sk	60
+赛恩	sai en	1571
+赛恩	sden	57
+赛恩	se	57
+赛恩	se brkx	57
+三楼打野	san lou da ye	45
+三楼打野	sjlzdaye	3
+三楼打野	sldy	3
+三楼辅助	san lou fu zhu	26
+三楼辅助	sjlzfuvu	2
+三楼辅助	slfv	2
+三楼上单	san lou shang dan	45
+三楼上单	sjlzuhdj	3
+三楼上单	slud	3
+三楼下	san lou xia	45
+三楼下	sjlzxx	3
+三楼下	slx	3
+三楼中单	san lou zhong dan	45
+三楼中单	sjlzvsdj	3
+三楼中单	slvd	3
+三路全破	san lu quan po	572
+三路全破	sjluqrpo	24
+三路全破	slqp	24
+三杀	san sha	461
+三杀	sjua	20
+三杀	su	20
+三速鞋	san su xie	773
+三速鞋	sjsuxp	31
+三速鞋	ssx	31
+三塔	san ta	544
+三塔	sjta	23
+三塔	st	23
+三相	san xiang	773
+三相	sjxl	31
+三相	sx	31
+三相之力	san xiang zhi li	773
+三相之力	sjxlvili	31
+三相之力	sxvl	31
+伞爷	san ye	327
+伞爷	sjye	15
+伞爷	sy	15
+伞爷	sy rube	15
+骚皇	sao huang	406
+骚皇	schl	18
+骚皇	sh	18
+骚扰	sao rao	2091
+骚扰	scrc	73
+骚扰	sr	73
+骚扰	sr mify	73
+瑟庄妮	se zhuang ni	1894
+瑟庄妮	sevlni	67
+瑟庄妮	svn	67
+沙兵现身	sha bing xian shen	1413
+沙兵现身	uabkxmuf	52
+沙兵现身	ubxu	52
+沙皇	sha huang	1413
+沙皇	uahl	52
+沙皇	uh	52
+沙漏	sha lou	628
+沙漏	ualz	26
+沙漏	ul	26
+沙漠皇帝	sha mo huang di	2025
+沙漠皇帝	uamohldi	71
+沙漠皇帝	umhd	71
+沙漠死神	sha mo si shen	1667
+沙漠死神	uamosiuf	60
+沙漠死神	umsu	60
+杀人剑	sha ren jian	981
+杀人剑	uarfjm	38
+杀人剑	urj	38
+杀人书	sha ren shu	981
+杀人书	uarfuu	38
+杀人书	uru	38
+闪现	shan xian	2058
+闪现	ujxm	72
+闪现	ux	72
+扇子妈	shan zi ma	1256
+扇子妈	ujzima	47
+扇子妈	uzm	47
+上单	shang dan	2256
+上单	uhdj	78
+上单	ud	78
+上单能出肉	shang dan neng chu rou	26
+上单能出肉	uhdjngiurz	2
+上单能出肉	udnir	2
+上单送太多了	shang dan song tai duo le	0
+上单送太多了	uhdjsstddole	0
+上单送太多了	udstdl	0
+上古战魂	shang gu zhan hun	1444
+上古战魂	uhguvjhy	53
+上古战魂	ugvh	53
+伤害	shang hai	2124
+伤害	uhhd	74
+伤害	uh	74
+赏金猎人	shang jin lie ren	1764
+赏金猎人	uhjblprf	63
+赏金猎人	ujlr	63
+上路	shang lu	600
+上路	uhlu	25
+上路	ul	25
+上路去偷	shang lu qu tou	10
+上路去偷	uhluqutz	1
+上路去偷	ulqt	1
+殇之机器人	shang zhi ji qi ren	85
+殇之机器人	uhvijiqirf	5
+殇之机器人	uvjqr	5
+殇之木乃伊	shang zhi mu nai yi	1603
+殇之木乃伊	uhvimundyi	58
+殇之木乃伊	uvmny	58
+哨兵	shao bing	1444
+哨兵	ucbk	53
+哨兵	ub	53
+哨兵	ub koqb	53
+哨兵之殇	shao bing zhi shang	1764
+哨兵之殇	ucbkviuh	63
+哨兵之殇	ubvu	63
+射程	she cheng	2157
+射程	ueig	75
+射程	ui	75
+射程	ui uchw	75
+蛇队	she dui	275
+蛇队	uedv	13
+蛇队	ud	13
+蛇队	ud iber	13
+蛇女	she nv	1225
+蛇女	uenv	46
+蛇女	un	46
+深海泰坦	shen hai tai tan	1894
+深海泰坦	ufhdtdtj	67
+深海泰坦	uhtt	67
+肾结石	shen jie shi	353
+肾结石	ufjpui	16
+肾结石	uju	16
+神秘之剑	shen mi zhi jian	951
+神秘之剑	ufmivijm	37
+神秘之剑	umvj	37
+审判天使	shen pan tian shi	1539
+审判天使	ufpjtmui	56
+审判天使	uptu	56
+神奇旅程	shen qi lv cheng	1476
+神奇旅程	ufqilvig	54
+神奇旅程	uqli	54
+神奇旅程	uqli pudkfnhw	54
+神谕精粹	shen yu jing cui	951
+神谕精粹	ufyujkcv	37
+神谕精粹	uyjc	37
+深渊	shen yuan	802
+深渊	ufyr	32
+深渊	uy	32
+深渊巨口	shen yuan ju kou	1732
+深渊巨口	ufyrjukz	62
+深渊巨口	uyjk	62
+深渊潜航	shen yuan qian hang	1508
+深渊潜航	ufyrqmhh	55
+深渊潜航	uyqh	55
+深渊权杖	shen yuan quan zhang	832
+深渊权杖	ufyrqrvh	33
+深渊权杖	uyqv	33
+胜点	sheng dian	544
+胜点	ugdm	23
+胜点	ud	23
+生化魔人	sheng hua mo ren	1992
+生化魔人	ughxmorf	70
+生化魔人	uhmr	70
+生命回复	sheng ming hui fu	2157
+生命回复	ugmkhvfu	75
+生命回复	umhf	75
+生命形态瓦解射线	sheng ming xing tai wa jie she xian	1350
+生命形态瓦解射线	ugmkxktdwajpuexm	50
+生命形态瓦解射线	umxtwjux	50
+生命药水	sheng ming yao shui	981
+生命药水	ugmkycuv	38
+生命药水	umyu	38
+生命值	sheng ming zhi	2157
+生命值	ugmkvi	75
+生命值	umv	75
+圣枪游侠	sheng qiang you xia	1992
+圣枪游侠	ugqlyzxx	70
+圣枪游侠	uqyx	70
+声望	sheng wang	250
+声望	ugwh	12
+声望	uw	12
+时光	shi guang	802
+时光	uigl	32
+时光	ug	32
+时光	ug ocxw	32
+时光交错	shi guang jiao cuo	1476
+时光交错	uigljnco	54
+时光交错	ugjc	54
+时光交错	ugjc ocxwwxjo	54
+时光老头	shi guang lao tou	1133
+时光老头	uigllctz	43
+时光老头	uglt	43
+时光守护者	shi guang shou hu zhe	1603
+时光守护者	uigluzhuve	58
+时光守护者	uguhv	58
+时光之杖	shi guang zhi zhang	832
+时光之杖	uiglvivh	33
+时光之杖	ugvv	33
+时间刺客	shi jian ci ke	2025
+时间刺客	uijmcike	71
+时间刺客	ujck	71
+时间卷曲器	shi jian juan qu qi	1508
+时间卷曲器	uijmjrquqi	55
+时间卷曲器	ujjqq	55
+是坑	shi keng	488
+是坑	uikg	21
+是坑	uk	21
+时空断裂	shi kong duan lie	1476
+时空断裂	uiksdrlp	54
+时空断裂	ukdl	54
+试炼之地	shi lian zhi di	1072
+试炼之地	uilmvidi	41
+试炼之地	ulvd	41
+石头人	shi tou ren	1164
+石头人	uitzrf	44
+石头人	utr	44
+石像鬼	shi xiang gui	1194
+石像鬼	uixlgv	45
+石像鬼	uxg	45
+嗜血猎手	shi xue lie shou	1571
+嗜血猎手	uixtlpuz	57
+嗜血猎手	uxlu	57
+视野	shi ye	2124
+视野	uiye	74
+视野	uy	74
+视野	uy pell	74
+失真	shi zhen	744
+失真	uivf	30
+失真	uv	30
+时之砂	shi zhi sha	1476
+时之砂	uiviua	54
+时之砂	uvu	54
+十字镐	shi zi gao	921
+十字镐	uizigc	36
+十字镐	uzg	36
+狮子狗	shi zi gou	1256
+狮子狗	uizigz	47
+狮子狗	uzg	47
+手短	shou duan	275
+手短	uzdr	13
+手短	ud	13
+收割	shou ge	2091
+收割	uzge	73
+收割	ug	73
+收割	ug vwbd	73
+守护天使	shou hu tian shi	715
+守护天使	uzhutmui	29
+守护天使	uhtu	29
+首领之傲	shou ling zhi ao	1764
+首领之傲	uzlkviao	63
+首领之傲	ulva	63
+首胜	shou sheng	153
+首胜	uzug	8
+首胜	uu	8
+守望者铠甲	shou wang zhe kai jia	715
+守望者铠甲	uzwhvekdjx	29
+守望者铠甲	uwvkj	29
+守望之海	shou wang zhi hai	130
+守望之海	uzwhvihd	7
+守望之海	uwvh	7
+收线	shou xian	572
+收线	uzxm	24
+收线	ux	24
+输出	shu chu	1041
+输出	uuiu	40
+输出	ui	40
+曙光女神	shu guang nv shen	1829
+曙光女神	uuglnvuf	65
+曙光女神	ugnu	65
+树人	shu ren	1256
+树人	uurf	47
+树人	ur	47
+恕瑞玛	shu rui ma	2058
+恕瑞玛	uurvma	72
+恕瑞玛	urm	72
+恕瑞玛	urm nxwewm	72
+恕瑞玛的传承	shu rui ma de chuan cheng	1413
+恕瑞玛的传承	uurvmadeirig	52
+恕瑞玛的传承	urmdii	52
+恕瑞玛的传承	urmdii nxwewmburvvn	52
+舒瑞亚的狂想曲	shu rui ya di kuang xiang qu	657
+舒瑞亚的狂想曲	uurvyadiklxlqu	27
+舒瑞亚的狂想曲	urydkxq	27
+双杀	shuang sha	461
+双杀	ulua	20
+双杀	uu	20
+双杀	uu yyxm	20
+双野	shuang ye	301
+双野	ulye	14
+双野	uy	14
+双野	uy yyll	14
+双招	shuang zhao	433
+双招	ulvc	19
+双招	uv	19
+双招	uv yyfk	19
+水晶	shui jing	600
+水晶	uvjk	25
+水晶	uj	25
+水晶先锋	shui jing xian feng	1861
+水晶先锋	uvjkxmfg	66
+水晶先锋	ujxf	66
+水晶之痕	shui jing zhi hen	1072
+水晶之痕	uvjkvihf	41
+水晶之痕	ujvh	41
+水银饰带	shui yin shi dai	715
+水银饰带	uvybuidd	29
+水银饰带	uyud	29
+水银鞋	shui yin xie	744
+水银鞋	uvybxp	30
+水银鞋	uyx	30
+水银之靴	shui yin zhi xue	744
+水银之靴	uvybvixt	30
+水银之靴	uyvx	30
+谁中	shui zhong	544
+谁中	uvvs	23
+谁中	uv	23
+四阿哥	si a ge	1256
+四阿哥	siaage	47
+四阿哥	sag	47
+四阿哥	sag keekdk	47
+斯巴达	si ba da	1164
+斯巴达	sibada	44
+斯巴达	sbd	44
+死歌	si ge	1133
+死歌	sige	43
+死歌	sg	43
+斯卡纳	si ka na	1861
+斯卡纳	sikana	66
+斯卡纳	skn	66
+斯卡纳	skn qjubsn	66
+撕裂	si lie	1444
+撕裂	silp	53
+撕裂	sl	53
+撕裂	sl fjdy	53
+四楼打野	si lou da ye	45
+四楼打野	silzdaye	3
+四楼打野	sldy	3
+四楼打野	sldy kemnfdll	3
+四楼辅助	si lou fu zhu	26
+四楼辅助	silzfuvu	2
+四楼辅助	slfv	2
+四楼上单	si lou shang dan	45
+四楼上单	silzuhdj	3
+四楼上单	slud	3
+四楼下	si lou xia	45
+四楼下	silzxx	3
+四楼下	slx	3
+四楼中单	si lou zhong dan	45
+四楼中单	silzvsdj	3
+四楼中单	slvd	3
+四杀	si sha	461
+四杀	siua	20
+四杀	su	20
+四杀	su kexm	20
+死亡颂唱者	si wang song chang zhe	1603
+死亡颂唱者	siwhssihve	58
+死亡颂唱者	swsiv	58
+斯维因	si wei yin	1764
+斯维因	siwwyb	63
+斯维因	swy	63
+丝血	si xue	327
+丝血	sixt	15
+丝血	sx	15
+怂你就输了	song ni jiu shu le	0
+怂你就输了	ssnijquule	0
+怂你就输了	snjul	0
+送人头	song ren tou	130
+送人头	ssrftz	7
+送人头	srt	7
+送塔	song ta	488
+送塔	ssta	21
+送塔	st	21
+送塔	st zttk	21
+速度开	su du kai	433
+速度开	sudukd	19
+速度开	sdk	19
+速度投	su du tou	544
+速度投	sudutz	23
+速度投	sdt	23
+速度之靴	su du zhi xue	773
+速度之靴	suduvixt	31
+速度之靴	sdvx	31
+速开	su kai	488
+速开	sukd	21
+速开	sk	21
+孙悟空	sun wu kong	1861
+孙悟空	sywuks	66
+孙悟空	swk	66
+索拉卡	suo la ka	1539
+索拉卡	solaka	56
+索拉卡	slk	56
+索拉卡	slk uxflub	56
+娑娜	suo na	1764
+娑娜	sona	63
+娑娜	sn	63
+娑娜	sn dnne	63
+锁子甲	suo zi jia	715
+锁子甲	sozijx	29
+锁子甲	szj	29
+塔里克	ta li ke	1635
+塔里克	talike	59
+塔里克	tlk	59
+塔姆肯奇	ta mu ken qi	2058
+塔姆肯奇	tamukfqi	72
+塔姆肯奇	tmkq	72
+泰达米尔	tai da mi er	1603
+泰达米尔	tddamier	58
+泰达米尔	tdme	58
+泰隆	tai long	1861
+泰隆	tdls	66
+泰隆	tl	66
+泰隆	tl fueu	66
+泰坦	tai tan	1287
+泰坦	tdtj	48
+泰坦	tt	48
+太阳圆盘	tai yang yuan pan	1413
+太阳圆盘	tdyhyrpj	52
+太阳圆盘	tyyp	52
+坦克	tan ke	2223
+坦克	tjke	77
+坦克	tk	77
+坦克型	tan ke xing	2223
+坦克型	tjkexk	77
+坦克型	tkx	77
+贪婪之刃	tan lan zhi ren	686
+贪婪之刃	tjljvirf	28
+贪婪之刃	tlvr	28
+探险家	tan xian jia	1699
+探险家	tjxmjx	61
+探险家	txj	61
+螳螂	tang lang	1319
+螳螂	thlh	49
+螳螂	tl	49
+螳螂	tl itie	49
+躺输	tang shu	516
+躺输	thuu	22
+躺输	tu	22
+逃生技	tao sheng ji	628
+逃生技	tcugji	26
+逃生技	tuj	26
+逃生技能	tao sheng ji neng	1041
+逃生技能	tcugjing	40
+逃生技能	tujn	40
+特朗德尔	te lang de er	1796
+特朗德尔	telhdeer	64
+特朗德尔	tlde	64
+特朗德尔	tlde ncdoixdx	64
+提百万	ti bai wan	1102
+提百万	tibdwj	42
+提百万	tbw	42
+提款姬	ti kuan ji	380
+提款姬	tikrji	17
+提款姬	tkj	17
+提款姬	tkj frurnl	17
+提莫	ti mo	1539
+提莫	timo	56
+提莫	tm	56
+提莫	tm frcd	56
+提亚马特	ti ya ma te	891
+提亚马特	tiyamate	35
+提亚马特	tymt	35
+天赋	tian fu	1041
+天赋	tmfu	40
+天赋	tf	40
+天赋系统	tian fu xi tong	250
+天赋系统	tmfuxits	12
+天赋系统	tfxt	12
+天启者	tian qi zhe	1796
+天启者	tmqive	64
+天启者	tqv	64
+跳蛋女巫	tiao dan nv wu	1319
+跳蛋女巫	tndjnvwu	49
+跳蛋女巫	tdnw	49
+调和命运	tiao he ming yun	1476
+调和命运	tnhemkyy	54
+调和命运	thmy	54
+调和命运	thmy ykhkrezs	54
+铁背	tie bei	327
+铁背	tpbw	15
+铁背	tb	15
+铁背	tb julo	15
+铁男	tie nan	1164
+铁男	tpnj	44
+铁男	tn	44
+铁男	tn jutl	44
+挺身而出	ting shen er chu	1381
+挺身而出	tkuferiu	51
+挺身而出	tuei	51
+痛殴	tong ou	1381
+痛殴	tsou	51
+痛殴	to	51
+痛殴	to byky	51
+统帅	tong shuai	744
+统帅	tsuk	30
+统帅	tu	30
+统帅	tu selj	30
+统治战场	tong zhi zhan chang	1072
+统治战场	tsvivjih	41
+统治战场	tvvi	41
+投吧	tou ba	544
+投吧	tzba	23
+投吧	tb	23
+偷家	tou jia	2091
+偷家	tzjx	73
+偷家	tj	73
+偷塔	tou ta	572
+偷塔	tzta	24
+偷塔	tt	24
+偷塔	tt rdtk	24
+偷野	tou ye	327
+偷野	tzye	15
+偷野	ty	15
+偷野	ty rdll	15
+投掷回力标	tou zhi hui li biao	1381
+投掷回力标	tzvihvlibn	51
+投掷回力标	tvhlb	51
+投掷顽石	tou zhi wan shi	1381
+投掷顽石	tzviwjui	51
+投掷顽石	tvwu	51
+屠夫之桥	tu fu zhi qiao	353
+屠夫之桥	tufuviqn	16
+屠夫之桥	tfvq	16
+突进	tu jin	1041
+突进	tujb	40
+突进	tj	40
+突进	tj bqzj	40
+突脸	tu lian	433
+突脸	tulm	19
+突脸	tl	19
+突脸	tl bqoa	19
+屠龙勇士	tu long yong shi	1350
+屠龙勇士	tulsysui	50
+屠龙勇士	tlyu	50
+图奇	tu qi	1603
+图奇	tuqi	58
+图奇	tq	58
+团啊	tuan a	1011
+团啊	traa	39
+团啊	ta	39
+团啊	ta kckk	39
+团不团	tuan bu tuan	433
+团不团	trbutr	19
+团不团	tbt	19
+团控	tuan kong	1041
+团控	trks	40
+团控	tk	40
+团控	tk kcfg	40
+团战	tuan zhan	2091
+团战	trvj	73
+团战	tv	73
+团战	tv kclg	73
+团战先手	tuan zhan xian shou	628
+团战先手	trvjxmuz	26
+团战先手	tvxu	26
+推啊	tui a	26
+推啊	tvaa	2
+推啊	ta	2
+推啊	ta ffkk	2
+腿短	tui duan	275
+腿短	tvdr	13
+腿短	td	13
+腿短	td ozua	13
+推线	tui xian	572
+推线	tvxm	24
+推线	tx	24
+推中	tui zhong	433
+推中	tvvs	19
+推中	tv	19
+托儿索	tuo er suo	380
+托儿索	toerso	17
+托儿索	tes	17
+挖掘机	wa jue ji	1476
+挖掘机	wajtji	54
+挖掘机	wjj	54
+挖掘隧道	wa jue sui dao	1444
+挖掘隧道	wajtsvdc	53
+挖掘隧道	wjsd	53
+挖掘隧道	wjsd fvfiezzz	53
+瓦洛兰	wa luo lan	2058
+瓦洛兰	walolj	72
+瓦洛兰	wll	72
+外设店	wai she dian	130
+外设店	wduedm	7
+外设店	wud	7
+外塔	wai ta	600
+外塔	wdta	25
+外塔	wt	25
+网二	wang er	275
+网二	wher	13
+网二	we	13
+亡灵	wang ling	1102
+亡灵	whlk	42
+亡灵	wl	42
+亡灵勇士	wang ling yong shi	1571
+亡灵勇士	whlkysui	57
+亡灵勇士	wlyu	57
+王牌飞行员	wang pai fei xing yuan	1164
+王牌飞行员	whpdfwxkyr	44
+王牌飞行员	wpfxy	44
+网四	wang si	176
+网四	whsi	9
+网四	ws	9
+网四	ws kxke	9
+网通二	wang tong er	176
+网通二	whtser	9
+网通二	wte	9
+网通四	wang tong si	176
+网通四	whtssi	9
+网通四	wts	9
+网通四	wts kxzyke	9
+网通五	wang tong wu	176
+网通五	whtswu	9
+网通五	wtw	9
+网通一	wang tong yi	176
+网通一	whtsyi	9
+网通一	wty	9
+网通一	wty kxzyaa	9
+网五	wang wu	176
+网五	whwu	9
+网五	ww	9
+网一	wang yi	176
+网一	whyi	9
+网一	wy	9
+网一	wy kxaa	9
+伪屌丝	wei diao si	1319
+伪屌丝	wwdnsi	49
+伪屌丝	wds	49
+薇恩	wei en	1829
+薇恩	wwen	65
+薇恩	we	65
+维迦	wei jia	1635
+维迦	wwjx	59
+维迦	wj	59
+维克托	wei ke tuo	1894
+维克托	wwketo	67
+维克托	wkt	67
+维克托	wkt sfuefq	67
+维克兹	wei ke zi	1992
+维克兹	wwkezi	70
+维克兹	wkz	70
+维克兹	wkz sfueby	70
+未来守护者	wei lai shou hu zhe	1927
+未来守护者	wwlduzhuve	68
+未来守护者	wluhv	68
+韦鲁斯	wei lu si	1927
+韦鲁斯	wwlusi	68
+韦鲁斯	wls	68
+尾三闪	wei san shan	85
+尾三闪	wwsjuj	5
+尾三闪	wsu	5
+韦神	wei shen	301
+韦神	wwuf	14
+韦神	wu	14
+位移	wei yi	2091
+位移	wwyi	73
+位移	wy	73
+问你怕不怕	wen ni pa bu pa	130
+问你怕不怕	wfnipabupa	7
+问你怕不怕	wnpbp	7
+瘟疫之源	wen yi zhi yuan	1603
+瘟疫之源	wfyiviyr	58
+瘟疫之源	wyvy	58
+我爱超神	wo ai chao shen	327
+我爱超神	woaiicuf	15
+我爱超神	waiu	15
+我蹲的腿都麻了	wo dun de tui dou ma le	85
+我蹲的腿都麻了	wodydetvdzmale	5
+我蹲的腿都麻了	wddtdml	5
+沃利贝尔	wo li bei er	1894
+沃利贝尔	wolibwer	67
+沃利贝尔	wlbe	67
+沃里克	wo li ke	1571
+沃里克	wolike	57
+沃里克	wlk	57
+我刷野去	wo shua ye qu	0
+我刷野去	wouxyequ	0
+我刷野去	wuyq	0
+我偷	wo tou	544
+我偷	wotz	23
+我偷	wt	23
+我邀你	wo yao ni	516
+我邀你	woycni	22
+我邀你	wyn	22
+我在你后面掩护	wo zai ni hou mian yan hu	107
+我在你后面掩护	wozdnihzmmyjhu	6
+我在你后面掩护	wznhmyh	6
+乌迪尔	wu di er	1667
+乌迪尔	wudier	60
+乌迪尔	wde	60
+乌龟	wu gui	1133
+乌龟	wugv	43
+乌龟	wg	43
+无极剑圣	wu ji jian sheng	1571
+无极剑圣	wujijmug	57
+无极剑圣	wjju	57
+无尽	wu jin	891
+无尽	wujb	35
+无尽	wj	35
+无尽之刃	wu jin zhi ren	891
+无尽之刃	wujbvirf	35
+无尽之刃	wjvr	35
+物抗	wu kang	2190
+物抗	wukh	76
+物抗	wk	76
+五楼打野	wu lou da ye	45
+五楼打野	wulzdaye	3
+五楼打野	wldy	3
+五楼辅助	wu lou fu zhu	26
+五楼辅助	wulzfuvu	2
+五楼辅助	wlfv	2
+五楼上单	wu lou shang dan	45
+五楼上单	wulzuhdj	3
+五楼上单	wlud	3
+五楼下	wu lou xia	45
+五楼下	wulzxx	3
+五楼下	wlx	3
+五楼中单	wu lou zhong dan	45
+五楼中单	wulzvsdj	3
+五楼中单	wlvd	3
+武器大师	wu qi da shi	1571
+武器大师	wuqidaui	57
+武器大师	wqdu	57
+无情重炮	wu qing zhong pao	327
+无情重炮	wuqkvspc	15
+无情重炮	wqvp	15
+五杀	wu sha	461
+五杀	wuua	20
+五杀	wu	20
+武术姿态	wu shu zi tai	1444
+武术姿态	wuuuzitd	53
+武术姿态	wuzt	53
+无双剑姬	wu shuang jian ji	1894
+无双剑姬	wuuljmji	67
+无双剑姬	wujj	67
+五速鞋	wu su xie	773
+五速鞋	wusuxp	31
+五速鞋	wsx	31
+无畏先锋	wu wei xian feng	225
+无畏先锋	wuwwxmfg	11
+无畏先锋	wwxf	11
+乌鸦	wu ya	1225
+乌鸦	wuya	46
+乌鸦	wy	46
+巫妖之祸	wu yao zhi huo	802
+巫妖之祸	wuycviho	32
+巫妖之祸	wyvh	32
+无用大棒	wu yong da bang	861
+无用大棒	wuysdabh	34
+无用大棒	wydb	34
+无语了	wu yu le	65
+无语了	wuyule	4
+无语了	wyl	4
+希瓦娜	xi wa na	1861
+希瓦娜	xiwana	66
+希瓦娜	xwn	66
+希维尔	xi wei er	1539
+希维尔	xiwwer	56
+希维尔	xwe	56
+希维尔	xwe xjsfdx	56
+吸血鬼	xi xue gui	1194
+吸血鬼	xixtgv	45
+吸血鬼	xxg	45
+吸血鬼权杖	xi xue gui quan zhang	921
+吸血鬼权杖	xixtgvqrvh	36
+吸血鬼权杖	xxgqv	36
+吸血旗	xi xue qi	686
+吸血旗	xixtqi	28
+吸血旗	xxq	28
+吸血书	xi xue shu	832
+吸血书	xixtuu	33
+吸血书	xxu	33
+喜洋洋	xi yang yang	353
+喜洋洋	xiyhyh	16
+喜洋洋	xyy	16
+蜥蜴长者	xi yi zhang zhe	572
+蜥蜴长者	xiyivhve	24
+蜥蜴长者	xyvv	24
+喜之螂	xi zhi lang	380
+喜之螂	xivilh	17
+喜之螂	xvl	17
+下路	xia lu	600
+下路	xxlu	25
+下路	xl	25
+下路送太多了	xia lu song tai duo le	0
+下路送太多了	xxlusstddole	0
+下路送太多了	xlstdl	0
+瞎子	xia zi	1256
+瞎子	xxzi	47
+瞎子	xz	47
+先拆水晶	xian chai shui jing	10
+先拆水晶	xmiduvjk	1
+先拆水晶	xiuj	1
+仙灵女巫	xian ling nv wu	1927
+仙灵女巫	xmlknvwu	68
+仙灵女巫	xlnw	68
+仙女护符	xian nv hu fu	891
+仙女护符	xmnvhufu	35
+仙女护符	xnhf	35
+先手	xian shou	628
+先手	xmuz	26
+先手	xu	26
+贤者之石	xian zhe zhi shi	657
+贤者之石	xmveviui	27
+贤者之石	xvvu	27
+先知药剂	xian zhi yao ji	981
+先知药剂	xmviycji	38
+先知药剂	xvyj	38
+橡皮妮	xiang pi ni	380
+橡皮妮	xlpini	17
+橡皮妮	xpn	17
+相位俯冲	xiang wei fu chong	1476
+相位俯冲	xlwwfuis	54
+相位俯冲	xwfi	54
+小兵	xiao bing	2124
+小兵	xnbk	74
+小兵	xb	74
+小苍	xiao cang	107
+小苍	xnch	6
+小苍	xc	6
+小丑	xiao chou	1164
+小丑	xniz	44
+小丑	xi	44
+小法	xiao fa	1133
+小法	xnfa	43
+小法	xf	43
+小个子	xiao ge zi	1256
+小个子	xngezi	47
+小个子	xgz	47
+小号	xiao hao	153
+小号	xnhc	8
+小号	xh	8
+消耗	xiao hao	2124
+消耗	xnhc	74
+消耗	xh	74
+小黄毛	xiao huang mao	1194
+小黄毛	xnhlmc	45
+小黄毛	xhm	45
+小龙	xiao long	2223
+小龙	xnls	77
+小龙	xl	77
+小龙集合	xiao long ji he	65
+小龙集合	xnlsjihe	4
+小龙集合	xljh	4
+小面具	xiao mian ju	861
+小面具	xnmmju	34
+小面具	xmj	34
+小炮	xiao pao	1102
+小炮	xnpc	42
+小炮	xp	42
+小圣杯	xiao sheng bei	861
+小圣杯	xnugbw	34
+小圣杯	xub	34
+小心草丛有人	xiao xin cao cong you ren	26
+小心草丛有人	xnxbcccsyzrf	2
+小心草丛有人	xxccyr	2
+小学僧	xiao xue seng	380
+小学僧	xnxtsg	17
+小学僧	xxs	17
+小学生杀手	xiao xue sheng sha shou	153
+小学生杀手	xnxtuguauz	8
+小学生杀手	xxuuu	8
+小学生之手	xiao xue sheng zhi shou	1319
+小学生之手	xnxtugviuz	49
+小学生之手	xxuvu	49
+逍遥赌侠	xiao yao du xia	327
+逍遥赌侠	xnycduxx	15
+逍遥赌侠	xydx	15
+逍遥赌侠	xydx zozfkorj	15
+小鱼人	xiao yu ren	1287
+小鱼人	xnyurf	48
+小鱼人	xyr	48
+小智	xiao zhi	107
+小智	xnvi	6
+小智	xv	6
+邪恶小法师	xie e xiao fa shi	1635
+邪恶小法师	xpeexnfaui	59
+邪恶小法师	xexfu	59
+蝎子	xie zi	1287
+蝎子	xpzi	48
+蝎子	xz	48
+辛德拉	xin de la	1959
+辛德拉	xbdela	69
+辛德拉	xdl	69
+辛吉德	xin ji de	1571
+辛吉德	xbjide	57
+辛吉德	xjd	57
+新剑姬	xin jian ji	301
+新剑姬	xbjmji	14
+新剑姬	xjj	14
+新剑姬	xjj ljrdnl	14
+信爷	xin ye	406
+信爷	xbye	18
+信爷	xy	18
+信爷	xy rkbe	18
+猩红收割者	xing hong shou ge zhe	1732
+猩红收割者	xkhsuzgeve	62
+猩红收割者	xhugv	62
+猩红系列	xing hong xi lie	275
+猩红系列	xkhsxilp	13
+猩红系列	xhxl	13
+腥红之月	xing hong zhi yue	1413
+腥红之月	xkhsviyt	52
+腥红之月	xhvy	52
+星际之门	xing ji zhi men	1413
+星际之门	xkjivimf	52
+星际之门	xjvm	52
+星界游神	xing jie you shen	2025
+星界游神	xkjpyzuf	71
+星界游神	xjyu	71
+星妈	xing ma	1102
+星妈	xkma	42
+星妈	xm	42
+型驱动共振	xing qu dong gong zhen	1508
+型驱动共振	xkqudsgsvf	55
+型驱动共振	xqdgv	55
+星体束缚	xing ti shu fu	1476
+星体束缚	xktiuufu	54
+星体束缚	xtuf	54
+秀操作	xiu cao zuo	516
+秀操作	xqcczo	22
+秀操作	xcz	22
+秀操作	xcz hnfmrv	22
+秀死	xiu si	516
+秀死	xqsi	22
+秀死	xs	22
+秀死	xs hndb	22
+续航	xu hang	2091
+续航	xuhh	73
+续航	xh	73
+虚空	xu kong	2058
+虚空	xuks	72
+虚空	xk	72
+虚空	xk hybg	72
+虚空遁地兽	xu kong dun di shou	2025
+虚空遁地兽	xuksdydiuz	71
+虚空遁地兽	xkddu	71
+虚空遁地兽	xkddu hybgzotybk	71
+虚空恐惧	xu kong kong ju	1603
+虚空恐惧	xuksksju	58
+虚空恐惧	xkkj	58
+虚空裂隙	xu kong lie xi	1350
+虚空裂隙	xukslpxi	50
+虚空裂隙	xklx	50
+虚空裂隙	xklx hybgdyex	50
+虚空掠夺者	xu kong lue duo zhe	1959
+虚空掠夺者	xuksltdove	69
+虚空掠夺者	xkldv	69
+虚空掠夺者	xkldv hybgfxdclo	69
+虚空猛冲	xu kong meng chong	1444
+虚空猛冲	xuksmgis	53
+虚空猛冲	xkmi	53
+虚空猛冲	xkmi hybgqmdv	53
+虚空挖掘机	xu kong wa jue ji	1476
+虚空挖掘机	xukswajtji	54
+虚空挖掘机	xkwjj	54
+虚空先知	xu kong xian zhi	1732
+虚空先知	xuksxmvi	62
+虚空先知	xkxv	62
+虚空行者	xu kong xing zhe	1635
+虚空行者	xuksxkve	59
+虚空行者	xkxv	59
+虚空行者	xkxv hybgiilo	59
+虚空之眼	xu kong zhi yan	2025
+虚空之眼	xuksviyj	71
+虚空之眼	xkvy	71
+虚空之杖	xu kong zhi zhang	861
+虚空之杖	xuksvivh	34
+虚空之杖	xkvv	34
+虚弱	xu ruo	2058
+虚弱	xuro	72
+虚弱	xr	72
+虚弱	xr hygd	72
+喧哗	xuan hua	744
+喧哗	xrhx	30
+喧哗	xh	30
+血鬼	xue gui	1194
+血鬼	xtgv	45
+血鬼	xg	45
+血魔	xue mo	1194
+血魔	xtmo	45
+血魔	xm	45
+雪人	xue ren	1102
+雪人	xtrf	42
+雪人	xr	42
+雪人骑士	xue ren qi shi	1539
+雪人骑士	xtrfqiui	56
+雪人骑士	xrqu	56
+血色之刃	xue se zhi ren	921
+血色之刃	xtsevirf	36
+血色之刃	xsvr	36
+血药	xue yao	2190
+血药	xtyc	76
+血药	xy	76
+迅捷斥候	xun jie chi hou	1539
+迅捷斥候	xyjpiihz	56
+迅捷斥候	xjih	56
+训龙女巫	xun long nv wu	85
+训龙女巫	xylsnvwu	5
+训龙女巫	xlnw	5
+雅典娜的邪恶圣杯	ya dian na de xie e sheng bei	832
+雅典娜的邪恶圣杯	yadmnadexpeeugbw	33
+雅典娜的邪恶圣杯	ydndxeub	33
+亚索	ya suo	1992
+亚索	yaso	70
+亚索	ys	70
+亚托克斯	ya tuo ke si	1992
+亚托克斯	yatokesi	70
+亚托克斯	ytks	70
+压制	ya zhi	891
+压制	yavi	35
+压制	yv	35
+眼石	yan shi	2190
+眼石	yjui	76
+眼石	yu	76
+耀光	yao guang	861
+耀光	ycgl	34
+耀光	yg	34
+耀光	yg xfxw	34
+妖姬	yao ji	1225
+妖姬	ycji	46
+妖姬	yj	46
+妖姬	yj nynl	46
+邀你	yao ni	516
+邀你	ycni	22
+邀你	yn	22
+邀你	yn zwrx	22
+邀我	yao wo	461
+邀我	ycwo	20
+邀我	yw	20
+野怪	ye guai	2124
+野怪	yegk	74
+野怪	yg	74
+野怪	yg llxt	74
+野狼	ye lang	2256
+野狼	yelh	78
+野狼	yl	78
+野狼	yl llql	78
+野区	ye qu	2223
+野区	yequ	77
+野区	yq	77
+野区	yq llkx	77
+野兽之灵	ye shou zhi ling	1667
+野兽之灵	yeuzvilk	60
+野兽之灵	yuvl	60
+一波带走	yi bo dai zou	461
+一波带走	yiboddzz	20
+一波带走	ybdz	20
+一波带走	ybdz aadyfjtr	20
+一波团	yi bo tuan	433
+一波团	yibotr	19
+一波团	ybt	19
+一波团	ybt aadykc	19
+易大师	yi da shi	1102
+易大师	yidaui	42
+易大师	ydu	42
+移动速度	yi dong su du	2157
+移动速度	yidssudu	75
+移动速度	ydsd	75
+伊芙蕾雅	yi fu lei ya	107
+伊芙蕾雅	yifulwya	6
+伊芙蕾雅	yfly	6
+伊芙琳	yi fu lin	1603
+伊芙琳	yifulb	58
+伊芙琳	yfl	58
+伊丽莎的奇迹	yi li sha de qi ji	657
+伊丽莎的奇迹	yiliuadeqiji	27
+伊丽莎的奇迹	yludqj	27
+伊利斯	yi li si	1959
+伊利斯	yilisi	69
+伊利斯	yls	69
+一楼打野	yi lou da ye	65
+一楼打野	yilzdaye	4
+一楼打野	yldy	4
+一楼打野	yldy aamnfdll	4
+一楼辅助	yi lou fu zhu	45
+一楼辅助	yilzfuvu	3
+一楼辅助	ylfv	3
+一楼上单	yi lou shang dan	65
+一楼上单	yilzuhdj	4
+一楼上单	ylud	4
+一楼下	yi lou xia	65
+一楼下	yilzxx	4
+一楼下	ylx	4
+一楼中单	yi lou zhong dan	65
+一楼中单	yilzvsdj	4
+一楼中单	ylvd	4
+一塔	yi ta	544
+一塔	yita	23
+一塔	yt	23
+一塔	yt aatk	23
+伊泽瑞尔	yi ze rui er	1699
+伊泽瑞尔	yizerver	61
+伊泽瑞尔	yzre	61
+印记	yin ji	275
+印记	ybji	13
+印记	yj	13
+饮血	yin xue	891
+饮血	ybxt	35
+饮血	yx	35
+饮血剑	yin xue jian	891
+饮血剑	ybxtjm	35
+饮血剑	yxj	35
+樱花刀	ying hua dao	686
+樱花刀	ykhxdc	28
+樱花刀	yhd	28
+硬控	ying kong	1041
+硬控	ykks	40
+硬控	yk	40
+影流	ying liu	130
+影流	yklq	7
+影流	yl	7
+影流	yl opdv	7
+影流之主	ying liu zhi zhu	1959
+影流之主	yklqvivu	69
+影流之主	ylvv	69
+英雄	ying xiong	2124
+英雄	ykxs	74
+英雄	yx	74
+英雄联盟职业联赛	ying xiong lian meng zhi ye lian sai	406
+英雄联盟职业联赛	ykxslmmgviyelmsd	18
+英雄联盟职业联赛	yxlmvyls	18
+英勇徽章	ying yong hui zhang	657
+英勇徽章	ykyshvvh	27
+英勇徽章	yyhv	27
+英勇投弹手	ying yong tou dan shou	1667
+英勇投弹手	ykystzdjuz	60
+英勇投弹手	yytdu	60
+佣兵大作战	yong bing da zuo zhan	353
+佣兵大作战	ysbkdazovj	16
+佣兵大作战	ybdzv	16
+佣兵模式	yong bing mo shi	327
+佣兵模式	ysbkmoui	15
+佣兵模式	ybmu	15
+泳池派对	yong chi pai dui	1444
+泳池派对	ysiipddv	53
+泳池派对	yipd	53
+永恒梦魇	yong heng meng yan	1829
+永恒梦魇	yshgmgyj	65
+永恒梦魇	yhmy	65
+又给抓	you gei zhua	65
+又给抓	yzgwvx	4
+又给抓	ygv	4
+有话好商量	you hua hao shang liang	26
+有话好商量	yzhxhcuhll	2
+有话好商量	yhhul	2
+幽魂面具	you hun mian ju	861
+幽魂面具	yzhymmju	34
+幽魂面具	yhmj	34
+游击	you ji	2091
+游击	yzji	73
+游击	yj	73
+有机体解构	you ji ti jie gou	1350
+有机体解构	yzjitijpgz	50
+有机体解构	yjtjg	50
+幽梦之灵	you meng zhi ling	686
+幽梦之灵	yzmgvilk	28
+幽梦之灵	ymvl	28
+游神圣坛	you shen sheng tan	1476
+游神圣坛	yzufugtj	54
+游神圣坛	yuut	54
+有眼	you yan	2223
+有眼	yzyj	77
+有眼	yy	77
+有勇气	you yong qi	0
+有勇气	yzysqi	0
+有勇气	yyq	0
+游走	you zou	2091
+游走	yzzz	73
+游走	yz	73
+游走	yz dztr	73
+御魔之器	yu mo zhi qi	657
+御魔之器	yumoviqi	27
+御魔之器	ymvq	27
+鱼尾雯	yu wei wen	380
+鱼尾雯	yuwwwf	17
+鱼尾雯	yww	17
+远古魔像	yuan gu mo xiang	572
+远古魔像	yrgumoxl	24
+远古魔像	ygmx	24
+远古巫灵	yuan gu wu ling	1861
+远古巫灵	yrguwulk	66
+远古巫灵	ygwl	66
+远古意志	yuan gu yi zhi	832
+远古意志	yrguyivi	33
+远古意志	ygyv	33
+约德尔	yue de er	2058
+约德尔	ytdeer	72
+约德尔	yde	72
+月华咒刃	yue hua zhou ren	657
+月华咒刃	ythxvzrf	27
+月华咒刃	yhvr	27
+约里克	yue li ke	1829
+约里克	ytlike	65
+约里克	ylk	65
+约起	yue qi	461
+约起	ytqi	20
+约起	yq	20
+越塔	yue ta	2124
+越塔	ytta	74
+越塔	yt	74
+越塔	yt tvtk	74
+晕眩	yun xuan	2124
+晕眩	yyxr	74
+晕眩	yx	74
+在下辰良服了	zai xia chen liang fu le	0
+在下辰良服了	zdxxifllfule	0
+在下辰良服了	zxilfl	0
+泽拉斯	ze la si	1861
+泽拉斯	zelasi	66
+泽拉斯	zls	66
+泽拉斯	zls dlflqj	66
+泽三炮	ze san pao	1287
+泽三炮	zesjpc	48
+泽三炮	zsp	48
+怎么打	zen me da	10
+怎么打	zfmeda	1
+怎么打	zmd	1
+增幅典籍	zeng fu dian ji	861
+增幅典籍	zgfudmji	34
+增幅典籍	zfdj	34
+增幅典籍	zfdj tojtlbvo	34
+增益	zeng yi	628
+增益	zgyi	26
+增益	zy	26
+炸弹人	zha dan ren	1287
+炸弹人	vadjrf	48
+炸弹人	vdr	48
+扎克	zha ke	1992
+扎克	vake	70
+扎克	vk	70
+扎克	vk fvue	70
+战地机甲	zhan di ji jia	1350
+战地机甲	vjdijijx	50
+战地机甲	vdjj	50
+战斗之夜	zhan dou zhi ye	406
+战斗之夜	vjdzviye	18
+战斗之夜	vdvy	18
+站撸	zhan lu	461
+站撸	vjlu	20
+站撸	vl	20
+战士	zhan shi	2223
+战士	vjui	77
+战士	vu	77
+战争女神	zhan zheng nv shen	1539
+战争女神	vjvgnvuf	56
+战争女神	vvnu	56
+战争学院	zhan zheng xue yuan	1011
+战争学院	vjvgxtyr	39
+战争学院	vvxy	39
+战争之王	zhan zheng zhi wang	1699
+战争之王	vjvgviwh	61
+战争之王	vvvw	61
+战争之影	zhan zheng zhi ying	1927
+战争之影	vjvgviyk	68
+战争之影	vvvy	68
+掌盟	zhang meng	107
+掌盟	vhmg	6
+掌盟	vm	6
+掌盟	vm xuom	6
+掌萌	zhang meng	327
+掌萌	vhmg	15
+掌萌	vm	15
+长者之森	zhang zhe zhi sen	1476
+长者之森	vhvevisf	54
+长者之森	vvvs	54
+召唤师祭坛	zhao huan shi ji tan	600
+召唤师祭坛	vchruijitj	25
+召唤师祭坛	vhujt	25
+召唤师峡谷	zhao huan shi xia gu	1072
+召唤师峡谷	vchruixxgu	41
+召唤师峡谷	vhuxg	41
+召唤水晶	zhao huan shui jing	600
+召唤水晶	vchruvjk	25
+召唤水晶	vhuj	25
+召唤水晶枢纽	zhao huan shui jing shu niu	600
+召唤水晶枢纽	vchruvjkuunq	25
+召唤水晶枢纽	vhujun	25
+赵三哥	zhao san ge	1194
+赵三哥	vcsjge	45
+赵三哥	vsg	45
+赵信	zhao xin	1732
+赵信	vcxb	62
+赵信	vx	62
+赵信	vx txrk	62
+这操作我也是醉了	zhe cao zuo wo ye shi zui le	26
+这操作我也是醉了	vecczowoyeuizvle	2
+这操作我也是醉了	vczwyuzl	2
+这个塔守住	zhe ge ta shou zhu	26
+这个塔守住	vegetauzvu	2
+这个塔守住	vgtuv	2
+这你都敢上	zhe ni dou gan shang	0
+这你都敢上	venidzgjuh	0
+这你都敢上	vndgu	0
+这是个推塔游戏	zhe shi ge tui ta you xi	10
+这是个推塔游戏	veuigetvtayzxi	1
+这是个推塔游戏	vugttyx	1
+侦查守卫	zhen cha shou wei	981
+侦查守卫	vfiauzww	38
+侦查守卫	viuw	38
+震荡猛击	zhen dang meng ji	1381
+震荡猛击	vfdhmgji	51
+震荡猛击	vdmj	51
+振奋盔甲	zhen fen kui jia	715
+振奋盔甲	vfffkvjx	29
+振奋盔甲	vfkj	29
+阵容	zhen rong	130
+阵容	vfrs	7
+阵容	vr	7
+阵容	vr eibk	7
+阵容区配系统	zhen rong qu pei xi tong	406
+阵容区配系统	vfrsqupwxits	18
+阵容区配系统	vrqpxt	18
+真实伤害	zhen shi shang hai	2157
+真实伤害	vfuiuhhd	75
+真实伤害	vuuh	75
+真视守卫	zhen shi shou wei	981
+真视守卫	vfuiuzww	38
+真视守卫	vuuw	38
+真眼	zhen yan	1011
+真眼	vfyj	39
+真眼	vy	39
+真眼	vy ubog	39
+针眼	zhen yan	2223
+针眼	vfyj	77
+针眼	vy	77
+针眼	vy juog	77
+征服之海	zheng fu zhi hai	130
+征服之海	vgfuvihd	7
+征服之海	vfvh	7
+蒸汽机器人	zheng qi ji qi ren	1635
+蒸汽机器人	vgqijiqirf	59
+蒸汽机器人	vqjqr	59
+正义之地	zheng yi zhi di	1072
+正义之地	vgyividi	41
+正义之地	vyvd	41
+智慧合剂	zhi hui he ji	981
+智慧合剂	vihvheji	38
+智慧合剂	vhhj	38
+智慧末刃	zhi hui mo ren	686
+智慧末刃	vihvmorf	28
+智慧末刃	vhmr	28
+治疗	zhi liao	2058
+治疗	viln	72
+治疗	vl	72
+治疗宝珠	zhi liao bao zhu	744
+治疗宝珠	vilnbcvu	30
+治疗宝珠	vlbv	30
+治疗术	zhi liao shu	2058
+治疗术	vilnuu	72
+治疗术	vlu	72
+智商捉急	zhi shang zhuo ji	107
+智商捉急	viuhvoji	6
+智商捉急	vuvj	6
+直推	zhi tui	572
+直推	vitv	24
+直推	vt	24
+直推	vt uqff	24
+直推中路	zhi tui zhong lu	572
+直推中路	vitvvslu	24
+直推中路	vtvl	24
+指向性技能	zhi xiang xing ji neng	1041
+指向性技能	vixlxkjing	40
+指向性技能	vxxjn	40
+蜘蛛女皇	zhi zhu nv huang	1959
+蜘蛛女皇	vivunvhl	69
+蜘蛛女皇	vvnh	69
+中单	zhong dan	2256
+中单	vsdj	78
+中单	vd	78
+中单送太多了	zhong dan song tai duo le	0
+中单送太多了	vsdjsstddole	0
+中单送太多了	vdstdl	0
+中断	zhong duan	1041
+中断	vsdr	40
+中断	vd	40
+中路	zhong lu	572
+中路	vslu	24
+中路	vl	24
+中路打野爸爸速来抓	zhong lu da ye ba ba su lai zhua	85
+中路打野爸爸速来抓	vsludayebabasuldvx	5
+中路打野爸爸速来抓	vldybbslv	5
+重伤	zhong shang	802
+重伤	vsuh	32
+重伤	vu	32
+众星之子	zhong xing zhi zi	1539
+众星之子	vsxkvizi	56
+众星之子	vxvz	56
+中娅沙漏	zhong ya sha lou	628
+中娅沙漏	vsyaualz	26
+中娅沙漏	vyul	26
+周杰伦	zhou jie lun	1256
+周杰伦	vzjply	47
+周杰伦	vjl	47
+助攻	zhu gong	951
+助攻	vugs	37
+助攻	vg	37
+助攻	vg qlgw	37
+猪女	zhu nv	1287
+猪女	vunv	48
+猪女	vn	48
+抓爆	zhua bao	433
+抓爆	vxbc	19
+抓爆	vb	19
+装逼模式	zhuang bi mo shi	130
+装逼模式	vlbimoui	7
+装逼模式	vbmu	7
+装逼如风常伴吾身	zhuang bi ru feng chang ban wu shen	380
+装逼如风常伴吾身	vlbirufgihbjwuuf	17
+装逼如风常伴吾身	vbrfibwu	17
+自保	zi bao	1041
+自保	zibc	40
+自保	zb	40
+自定义	zi ding yi	1072
+自定义	zidkyi	41
+自定义	zdy	41
+走位	zou wei	2091
+走位	zzww	73
+走位	zw	73
+走位	zw trrl	73
+走中	zou zhong	461
+走中	zzvs	20
+走中	zv	20
+祖安	zu an	2058
+祖安	zuan	72
+祖安	za	72
+祖安	za pqbn	72
+祖安狂人	zu an kuang ren	1667
+祖安狂人	zuanklrf	60
+祖安狂人	zakr	60
+钻石段位	zuan shi duan wei	130
+钻石段位	zruidrww	7
+钻石段位	zudw	7
+钻石奖池	zuan shi jiang chi	107
+钻石奖池	zruijlii	6
+钻石奖池	zuji	6
+最后的轻语	zui hou de qing yu	891
+最后的轻语	zvhzdeqkyu	35
+最后的轻语	zhdqy	35
+最后一只恐龙	zui hou yi zhi kong long	1381
+最后一只恐龙	zvhzyiviksls	51
+最后一只恐龙	zhyvkl	51
+醉了	zui le	26
+醉了	zvle	2
+醉了	zl	2
+嘴强	zui qiang	301
+嘴强	zvql	14
+嘴强	zq	14
+嘴强	zq kygi	14
+嘴强王者	zui qiang wang zhe	301
+嘴强王者	zvqlwhve	14
+嘴强王者	zqwv	14
+最强王者	zui qiang wang zhe	301
+最强王者	zvqlwhve	14
+最强王者	zqwv	14

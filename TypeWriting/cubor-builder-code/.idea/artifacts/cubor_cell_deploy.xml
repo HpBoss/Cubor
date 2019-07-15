@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cubor-cell-deploy">
+    <output-path>$PROJECT_DIR$/out/artifacts/cubor_cell_deploy</output-path>
+    <root id="archive" name="cubor-cell-deploy.jar">
+      <element id="module-output" name="sequirrel" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.17/snakeyaml-1.17.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
