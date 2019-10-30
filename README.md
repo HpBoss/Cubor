@@ -14,7 +14,7 @@
   > 功能：1.键盘按键点击事件+鼠标按钮点击事件；  
   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2.文本输入框为空且点击查询/ENTER_KEY时，弹出JDialog，阻塞其它窗口，点击确定按钮结束Dialog;  
   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;3.输入单字并点击查询/ENTER_KEY，在JList一行一行的显示查询的内容；  
-## 感谢
+## 特别感谢
    [沈青川](https://github.com/ShenQingchuan)
    
          
